@@ -1,0 +1,201 @@
+Company	Location	Date	Level	Title	YOE	TC	Base	Stock	Bonus	Details	Gender
+Google	Mountain View, CA	1/30/2022	L9	Ads	16 / 16	$4,885,000	485k	4.2M	200k	Title: Distinguished Engineer, Race: Asian, Academic Level: Master’s degree	Gender: Male
+Amazon	Seattle, WA	1/30/2022	SDE III	Distributed Systems (Back-End)	8 / 8	$380,000	160k	220k	N/A	Title: Sde	N/A
+JPMorgan Chase	Wilmington, DE	1/30/2022	Associate	API Development (Back-End)	0 / 4	$113,000	105k	N/A	8k	Title: Associate Software Engineer	Gender: Male
+IBM	Rochester, MN	1/30/2022	Advisory Engineer	Distributed Systems (Back-End)	15 / 15	$146,000	146k	N/A	N/A	Title: Advisory Software Engineer, Race: White, Academic Level: Bachelor’s degree	Gender: Male
+Ford Motor	Dearborn, MI	1/30/2022	GS6	API Development (Back-End)	1 / 1	$92,000	80k	N/A	12k	Title: Software Engineer, Race: Asian, Academic Level: Bachelor’s degree	Gender: Male
+Axon	Charlotte, NC	1/30/2022	L3	API Development (Back-End)	0 / 8	$220,000	150k	60k	10k	Remote, Title: Software Engineer Ii	N/A
+Facebook	London, EN, United Kingdom	1/30/2022	E5	Web Development (Front-End)	3 / 10	$347,000	149k	176k	22k	Title: Front End Engineer, Race: White, Academic Level: High school or equivalent	Gender: Male
+IHS Markit	Raleigh, NC	1/30/2022	L7	Full Stack	7 / 7	$167,000	140k	6k	21k	Remote, Title: Sr Software Engineer, Race: White, Academic Level: Bachelor’s degree	Gender: Female
+Northwestern Mutual	Milwaukee, WI	1/30/2022	Associate	Full Stack	0 / 0	$75,000	70k	N/A	5k	Remote, Title: Associate Software Engineer	N/A
+Audible	Cambridge, MA	1/30/2022	L5	Full Stack	0 / 5	$270,000	160k	50k	60k	Title: Sde 2, Race: Asian, Academic Level: Master’s degree	Gender: Male
+Audible	Newark, NJ	1/30/2022	L4	API Development (Back-End)	2 / 4	$150,000	125k	25k	N/A	Title: Software Development Engineer	N/A
+Microsoft	Redmond, WA	1/30/2022	SDE	Networking	0 / 0	$152,000	113k	19k	20k	Title: Software Engineer, Race: Asian, Academic Level: Bachelor’s degree	Gender: Male
+Esri	Redlands, CA	1/30/2022	Principal	API Development (Back-End)	14 / 17	$250,000	236k	N/A	14k	Title: Principal Software Developer, Race: Asian, Academic Level: Bachelor’s degree	Gender: Male
+Sberbank	Saint Petersburg, SP, Russia	1/30/2022	11	DevOps	2 / 4	$51,000	38k	N/A	13k	Title: Devops, Race: White, Academic Level: Master’s degree	Gender: Male
+Target	Minneapolis, MN	1/30/2022	L6	API Development (Back-End)	6 / 10	$178,000	158k	N/A	20k	Title: Lead Software Engineer, Academic Level: Bachelor’s degree	Gender: Male
+Unity Technologies	Zurich, ZH, Switzerland	1/30/2022	Tech IC7	Graphics	1 / 5	$300,000	198k	102k	N/A	Title: Senior Researcher, Race: White, Academic Level: Doctorate (PhD)	Gender: Male
+Delivery Hero	Berlin, BE, Germany	1/30/2022	IC3	Web Development (Front-End)	3 / 9	$105,000	90k	15k	N/A	Title: Senior Software Engineer, Race: Asian, Academic Level: Bachelor’s degree	Gender: Male
+Bloomberg LP	London, EN, United Kingdom	1/30/2022	Senior	Distributed Systems (Back-End)	0 / 2	$150,000	134k	N/A	16k	Title: Senior Software Engineer, Race: Asian, Academic Level: Master’s degree	Gender: Male
+Capital One	Richmond, VA	1/30/2022	Associate Software Eng	API Development (Back-End)	0 / 0	$115,000	100k	N/A	15k	Title: Associate Software Engineer	N/A
+Ford Motor	Dearborn, MI	1/30/2022	GSR6	DevOps	2 / 4	$89,000	84k	N/A	5k	Remote, Title: Software Engineer, Race: White, Academic Level: Bachelor’s degree	Gender: Male
+Duolingo	Pittsburgh, PA	1/30/2022	L2	DevOps	0 / 2	$190,000	140k	50k	N/A	Title: Devops	N/A
+Box	Redwood City, CA	1/30/2022	Senior Software Engineer	Site Reliability (SRE)	3 / 14	$261,000	186k	75k	N/A	Title: Sr. Site Reliability Engineer, Race: Asian, Academic Level: Master’s degree	Gender: Female
+Microsoft	Reston, VA	1/30/2022	60	DevOps	0 / 3	$163,000	120k	13k	30k	Title: Software Engineer	N/A
+Indeed	Seattle, WA	1/30/2022	L2	Full Stack	4 / 7	$318,000	178k	98k	42k	Title: Software Engineer, Race: White, Academic Level: Bachelor’s degree	Gender: Male
+Deutsche Bank	Cary, NC	1/30/2022	AVP	API Development (Back-End)	7 / 15	$120,000	117k	N/A	3k	Title: Avp, Race: Asian, Academic Level: Bachelor’s degree	Gender: Male
+JPMorgan Chase	Columbus, OH	1/30/2022	Analyst	NA	0 / 0	$90,000	80k	N/A	10k	Title: Sep I	N/A
+Microsoft	Redmond, WA	1/30/2022	Senior SDE	Distributed Systems (Back-End)	2 / 15	$280,000	165k	100k	15k	Title: Senior Software Engineer, Race: Asian, Academic Level: Master’s degree	Gender: Male
+Twitter	Seattle, WA	1/30/2022	SWE II	API Development (Back-End)	0 / 1	$252,000	170k	48k	34k	Remote, Title: Partner Engineer, Academic Level: Bachelor’s degree	Gender: Female
+NICE	Salt Lake City, UT	1/30/2022	1	Production	0 / 2	$85,000	80k	N/A	5k	Title: Software Engineer, Race: White, Academic Level: Some college coursework completed	Gender: Male
+Oracle	Seattle, WA	1/30/2022	IC	Distributed Systems (Back-End)	0 / 7	$272,000	155k	93k	24k	Title: Senior Mts, Race: Asian, Academic Level: Master’s degree	Gender: Male
+Arm	Manchester, EN, United Kingdom	1/30/2022	Grade 5	Toolchain	3 / 9	$109,000	96k	N/A	13k	Title: Staff Software Engineer	N/A
+LaunchDarkly	Oakland, CA	1/30/2022	L3	Full Stack	3 / 3	$165,000	165k	N/A	N/A	Equity not included in TC because startup equity is an unknown (Remote), Title: Software Engineer, Academic Level: Bachelor’s degree	N/A
+IBM	Yorktown Heights, NY	1/30/2022	Staff Engineer	ML / AI	1 / 1	$140,000	140k	N/A	N/A	Title: Software Developer, Race: Hispanic / Latino, Academic Level: Master’s degree, Negotiated Amount: $7k	Gender: Female
+Google	Durham, NC	1/30/2022	L5	ML / AI	0 / 8	$298,000	150k	125k	23k	Title: Machine Learning Engineer	N/A
+Bank of America	Charlotte, NC	1/30/2022	B5	Full Stack	15 / 15	$155,000	130k	9k	16k	Title: Feature Lead	N/A
+Vicarious	Union City, CA	1/30/2022	P2	ML / AI	0 / 0	$155,000	155k	N/A	N/A	Title: Robotics Engineer, Race: Asian, Academic Level: Master’s degree	Gender: Male
+Salesforce	Hyderabad, TS, India	1/30/2022	Lead MTS	Distributed Systems (Back-End)	0 / 10	$139,000	93k	32k	14k	Title: Lmts	N/A
+Relativity	Chicago, IL	1/30/2022	L7	Distributed Systems (Back-End)	5 / 15	$436,000	240k	160k	36k	Title: Staff Software Engineer	Gender: Male
+Google	Mountain View, CA	1/30/2022	L3	API Development (Back-End)	0 / 0	$175,000	130k	25k	20k	Title: Software Engineer	N/A
+Facebook	Menlo Park, CA	1/30/2022	E3	Full Stack	0 / 0	$223,000	135k	38k	50k	Title: Software Engineer	N/A
+Facebook	Houston, TX	1/30/2022	E4	Android	0 / 5	$241,000	160k	65k	16k	Remote, Title: Software Developer, Race: Black or African American, Academic Level: Master’s degree	Gender: Male
+Facebook	Seattle, WA	1/30/2022	E3	Full Stack	0 / 0	$203,000	140k	38k	25k	Title: Software Engineer, Race: Asian, Academic Level: Bachelor’s degree	Gender: Male
+Amazon	Hyderabad, TS, India	1/30/2022	SDE II	Full Stack	5 / 9	$49,000	43k	6k	N/A	Title: Sde, Race: Asian, Academic Level: Bachelor’s degree	Gender: Male
+Google	Mountain View, CA	1/30/2022	L3	Distributed Systems (Back-End)	0 / 0	$178,000	138k	25k	15k	Title: Software Engineer, Race: Asian, Academic Level: Bachelor’s degree	Gender: Male
+Amazon	Seattle, WA	1/30/2022	SDE I	API Development (Back-End)	0 / 0	$167,000	129k	24k	14k	Title: Software Development Engineer, Race: Asian, Academic Level: Bachelor’s degree	Gender: Male
+ViacomCBS	San Francisco, CA	1/30/2022	Leader	API Development (Back-End)	2 / 12	$224,000	190k	5k	29k	Title: Lead Software Engineer, Race: Hispanic / Latino, Academic Level: Master’s degree	Gender: Male
+Citadel	Chicago, IL	1/30/2022	New Grad	Distributed Systems (Back-End)	0 / 0	$425,000	175k	N/A	250k	Title: Software Engineer, Race: Asian, Academic Level: Bachelor’s degree	Gender: Male
+H-E-B	San Antonio, TX	1/30/2022	Senior	API Development (Back-End)	2 / 7	$150,000	130k	N/A	20k	Title: Senior Software Engineer	N/A
+Cox Communications	Atlanta, GA	1/30/2022	IV	Full Stack	10 / 15	$196,000	170k	N/A	26k	Title: Sr. Architect, Race: White, Academic Level: High school or equivalent	Gender: Male
+Sourcegraph	Barcelona, CT, Spain	1/30/2022	IC3	Full Stack	0 / 6	$325,000	175k	150k	N/A	Remote, Title: Software Engineer	N/A
+Improbable	London, EN, United Kingdom	1/30/2022	New Grad	DevOps	0 / 0	$72,000	71k	N/A	1k	Title: Software Engineer, Race: Asian, Academic Level: Master’s degree	Gender: Female
+Facebook	New York, NY	1/30/2022	E4	API Development (Back-End)	2 / 7	$247,000	156k	75k	16k	Remote, Title: Software Engineer, Race: White, Academic Level: Bachelor’s degree	Gender: Male
+Nextdoor	San Francisco, CA	1/30/2022	L4	ML / AI	2 / 4	$365,000	185k	180k	N/A	Title: Machine Learning, Race: White	Gender: Male
+Twilio	Denver, CO	1/30/2022	IC4	Distributed Systems (Back-End)	3 / 7	$225,000	149k	76k	N/A	Remote, Title: Staff Software Engineer, Race: White, Academic Level: Bachelor’s degree	Gender: Female
+Willis Towers Watson	Denver, CO	1/30/2022	L3	Full Stack	8 / 10	$122,000	108k	N/A	14k	Remote, Title: Senior Software Engineer, Race: Black or African American, Academic Level: Bachelor’s degree	Gender: Male
+Google	Bengaluru, KA, India	1/30/2022	L4	Android	0 / 4	$108,000	50k	50k	8k	Title: Software Developer, Race: Asian, Academic Level: Master’s degree	Gender: Male
+Freshworks	Chennai, TN, India	1/30/2022	IC1	Testing (SDET)	3 / 3	$14,000	11k	3k	N/A	Title: Software Development Engineer In Test, Race: Asian, Academic Level: Bachelor’s degree	Gender: Male
+Accenture	Pune, MH, India	1/30/2022	Associate Software Engineer	Data	1 / 1	$6,000	6k	N/A	N/A	Title: Associate Software Engineer, Race: Asian, Academic Level: Bachelor’s degree	Gender: Male
+Facebook	London, EN, United Kingdom	1/30/2022	E3	Full Stack	1 / 1	$120,000	80k	10k	30k	Title: Software Engineer, Race: White, Academic Level: Bachelor’s degree	Gender: Male
+Loblaw Digital	Toronto, ON, Canada	1/30/2022	Senior	Distributed Systems (Back-End)	0 / 11	$106,000	106k	N/A	N/A	20K Relocation Bonus, Title: Senior Software Engineer, Race: Hispanic / Latino, Academic Level: Master’s degree	Gender: Male
+The D. E. Shaw Group	Hyderabad, TS, India	1/30/2022	SMT	API Development (Back-End)	4 / 4	$110,000	80k	N/A	30k	Title: Senior Member Of Technical Staff, Race: Asian	Gender: Male
+JPMorgan Chase	Mumbai, MH, India	1/30/2022	Senior Associate	Full Stack	6 / 15	$63,000	56k	N/A	7k	Title: Software Developer, Race: Asian, Academic Level: Bachelor’s degree	Gender: Male
+Goldman Sachs	Bengaluru, KA, India	1/30/2022	Analyst	API Development (Back-End)	1 / 1	$32,000	23k	N/A	9k	Title: Analyst, Race: Asian, Academic Level: Bachelor’s degree	Gender: Female
+Lyst	London, EN, United Kingdom	1/30/2022	2.1 Senior SWE	Web Development (Front-End)	3 / 5	$111,000	111k	N/A	N/A	Title: Senior Software Engineer, Race: White, Academic Level: Bachelor’s degree	Gender: Male
+Lyst	London, EN, United Kingdom	1/30/2022	1.3 SWE	Web Development (Front-End)	1 / 5	$87,000	87k	N/A	N/A	Title: Software Engineer Ii, Race: White, Academic Level: Bachelor’s degree	Gender: Male
+Lyst	London, EN, United Kingdom	1/30/2022	1.1 Associate Engineer	Web Development (Front-End)	1 / 1	$54,000	54k	N/A	N/A	Title: Software Engineer, Race: Black or African American, Academic Level: Bachelor’s degree	Gender: Female
+Lyst	London, EN, United Kingdom	1/30/2022	1.2	Web Development (Front-End)	1 / 1	$67,000	67k	N/A	N/A	Title: Software Engineer, Race: Asian, Academic Level: Bachelor’s degree	Gender: Female
+Lyst	London, EN, United Kingdom	1/30/2022	1.3	Full Stack	1 / 2	$80,000	80k	N/A	N/A	Title: Software Engineer, Race: Two or More Races, Academic Level: Bachelor’s degree	Gender: Male
+Lyst	London, EN, United Kingdom	1/30/2022	Associate Engineer (1.1)	Full Stack	0 / 1	$61,000	61k	N/A	N/A	Title: Software Engineer, Academic Level: Bachelor’s degree	Gender: Female
+Google	Seattle, WA	1/30/2022	L3	Full Stack	1 / 2	$184,000	131k	34k	19k	Title: Software Engineer, Race: Two or More Races, Academic Level: Bachelor’s degree	Gender: Male
+Better Mortgage	New York, NY	1/30/2022	L3	Web Development (Front-End)	0 / 0	$130,000	110k	13k	7k	Title: Software Engineer, Race: Asian, Academic Level: Bachelor’s degree	Gender: Non-binary
+ExxonMobil	Houston, TX	1/29/2022	L2	Full Stack	2 / 5	$88,000	87k	N/A	1k	Title: Full Stack Engineer, Race: White, Academic Level: Bachelor’s degree	Gender: Male
+Arcesium	Bangalore, KA, India	1/29/2022	L3	Site Reliability (SRE)	0 / 6	$65,000	54k	N/A	11k	Title: Technical Lead Sre, Race: Asian, Academic Level: Bachelor’s degree	Gender: Male
+AT&T	El Segundo, CA	1/29/2022	L2	Security	2 / 2	$157,000	143k	N/A	14k	Remote, Title: Senior Cybersecurity Engineer, Race: Asian, Academic Level: Bachelor’s degree	Gender: Male
+Paytm	Bengaluru, KA, India	1/29/2022	Senior Software Engineer	iOS	2 / 4	$40,000	36k	4k	N/A	Title: Senior Software Engineer, Race: Asian, Academic Level: Bachelor’s degree	Gender: Male
+Indeed	Singapore, SG, Singapore	1/29/2022	L2	Full Stack	0 / 2	$147,000	81k	26k	40k	Bonus includes $31712 sign on bonus, Title: Software Engineer Ii, Race: Asian, Academic Level: Bachelor’s degree	Gender: Male
+Intel	Santa Clara, CA	1/29/2022	Grade 8	Networking	0 / 15	$238,000	170k	43k	25k	30000 sign on, Title: Software Engineer, Race: Asian, Academic Level: Bachelor’s degree	Gender: Male
+Red Hat	Brno, JM, Czech Republic	1/29/2022	L4	API Development (Back-End)	12 / 12	$69,000	51k	10k	8k	Title: Senior Software Engineer, Race: White, Academic Level: Master’s degree	Gender: Male
+WarnerMedia	Atlanta, GA	1/29/2022	Senior	Full Stack	4 / 7	$147,000	129k	N/A	18k	Title: Senior Software Developer, Race: White, Academic Level: High school or equivalent	Gender: Male
+Cadence Design Systems	Noida, UP, India	1/29/2022	T1	C++ Developer	2 / 3	$19,000	17k	N/A	2k	Title: Software Engineer 1, Academic Level: Bachelor’s degree	Gender: Male
+Marqeta	Oakland, CA	1/29/2022	L4	API Development (Back-End)	1 / 10	$469,000	255k	163k	51k	Title: Lead Software Engineer, Academic Level: Master’s degree	Gender: Male
+Wipro	Sao Paulo, SP, Brazil	1/29/2022	B3	Salesforce	1 / 3	$42,000	39k	N/A	3k	Remote, Title: Lead Salesforce Developer, Race: White, Academic Level: High school or equivalent	Gender: Male
+Marqeta	New York, NY	1/29/2022	L3	Distributed Systems (Back-End)	0 / 6	$352,000	210k	100k	42k	Remote, Title: Senior Software Engineer, Academic Level: Master’s degree	Gender: Male
+Microsoft	Redmond, WA	1/29/2022	62	DevOps	1 / 4	$185,000	151k	19k	15k	Title: Software Engineer Ii, Race: White, Academic Level: Master’s degree	Gender: Female
+Apple	Cupertino, CA	1/29/2022	L3	API Development (Back-End)	2 / 3	$236,000	136k	80k	20k	Title: Software Engineer, Academic Level: Bachelor’s degree	N/A
+Facebook	Austin, TX	1/29/2022	E4	ML / AI	0 / 3	$165,000	131k	14k	20k	Title: Technical Analyst, Race: Asian, Academic Level: Master’s degree	Gender: Male
+Shopify	Sacramento, CA	1/29/2022	L5	Distributed Systems (Back-End)	0 / 2	$170,000	145k	25k	N/A	Remote, Title: Software Developer, Academic Level: Master’s degree	N/A
+Spotify	New York, NY	1/29/2022	Engineer II	Full Stack	0 / 3	$195,000	165k	30k	N/A	Title: Full Stack Engineer	N/A
+LinkedIn	Mountain View, CA	1/29/2022	Senior Software Engineer	Distributed Systems (Back-End)	3 / 7	$421,000	200k	201k	20k	Title: Sr Software Engineer	N/A
+Orchard	New York, NY	1/29/2022	L2	Full Stack	0 / 0	$128,000	125k	3k	N/A	Title: Software Engineer, Race: White, Academic Level: Bachelor’s degree	Gender: Male
+Google	San Francisco, CA	1/29/2022	L3	Android	1 / 1	$150,000	100k	40k	10k	Title: Networking Engineer, Race: Asian, Academic Level: Bachelor’s degree	Gender: Male
+Nexient	Ann Arbor, MI	1/29/2022	L1	API Development (Back-End)	0 / 0	$73,000	65k	N/A	8k	Remote, Title: Developer I, Race: White, Academic Level: Some college coursework completed	Gender: Male
+Shopify	Montreal, QC, Canada	1/29/2022	L6	API Development (Back-End)	0 / 8	$164,000	110k	50k	4k	Remote, Title: Senior Software Engineer, Academic Level: Bachelor’s degree	Gender: Male
+Workday	Pleasanton, CA	1/29/2022	P5	Distributed Systems (Back-End)	6 / 7	$375,000	205k	150k	20k	Title: Principal Software Development Engineer	N/A
+Bill.com	Sydney, NS, Australia	1/29/2022	Senior	API Development (Back-End)	2 / 10	$121,000	101k	20k	N/A	Title: Senior	N/A
+TransUnion	San Luis Obispo, CA	1/29/2022	Lead Engineer	Full Stack	2 / 5	$116,000	114k	N/A	2k	Title: Lead Fullstack Engineer, Race: White, Academic Level: Bachelor’s degree	Gender: Male
+Atlassian	Mountain View, CA	1/29/2022	P3	Distributed Systems (Back-End)	1 / 1	$171,000	133k	25k	13k	Title: Software Engineer, Race: Asian, Academic Level: Bachelor’s degree	Gender: Male
+Oracle	Redwood City, CA	1/29/2022	IC	DevOps	6 / 12	$178,000	143k	30k	5k	Title: Project Lead, Race: Asian, Academic Level: Master’s degree	Gender: Male
+Nutrien	Loveland, CO	1/29/2022	Associate	Full Stack	1 / 2	$96,000	86k	N/A	10k	Title: Associate Software Engineer, Academic Level: Some college coursework completed	Gender: Female
+Capital One	Richmond, VA	1/29/2022	Software Eng	Full Stack	0 / 2	$123,000	118k	N/A	5k	Title: Software Engineer	N/A
+Oracle	Redwood City, CA	1/29/2022	IC	DevOps	6 / 12	$178,000	143k	30k	5k	Title: Project Lead, Race: Asian, Academic Level: Master’s degree	Gender: Male
+Nutrien	Loveland, CO	1/29/2022	Associate	Full Stack	1 / 2	$96,000	86k	N/A	10k	Title: Associate Software Engineer, Academic Level: Some college coursework completed	Gender: Female
+Capital One	Richmond, VA	1/29/2022	Software Eng	Full Stack	0 / 2	$123,000	118k	N/A	5k	Title: Software Engineer	N/A
+Comcast	Philadelphia, PA	1/29/2022	Principal Engineer	Data	1 / 19	$244,000	185k	40k	19k	Title: Data Architect, Race: White, Academic Level: Bachelor’s degree	Gender: Male
+Facebook	Menlo Park, CA	1/29/2022	E3	ML / AI	0 / 0	$218,000	138k	38k	42k	Title: Software Engineer, Race: White, Academic Level: Bachelor’s degree	Gender: Male
+Facebook	Menlo Park, CA	1/29/2022	E3	API Development (Back-End)	0 / 0	$208,000	135k	38k	35k	Title: Software Engineer, Race: Asian, Academic Level: Bachelor’s degree	Gender: Male
+RBC	Toronto, ON, Canada	1/29/2022	PL07	Data	5 / 12	$108,000	95k	N/A	13k	Title: Senior Data Engineer	N/A
+RBC	Toronto, ON, Canada	1/29/2022	PL07	Data	0 / 11	$109,000	98k	N/A	11k	Title: Senior Data Engineer	N/A
+Mindtree	Redmond, WA	1/29/2022	L1	Cloud Support	1 / 1	$55,000	55k	N/A	N/A	Remote, Title: Cloud Support Engineer, Race: Asian, Academic Level: Master’s degree	Gender: Male
+Microsoft	Seattle, WA	1/29/2022	60	Distributed Systems (Back-End)	0 / 2	$169,000	128k	25k	16k	Title: Software Engineer	N/A
+JPMorgan Chase	London, EN, United Kingdom	1/29/2022	Associate	Distributed Systems (Back-End)	2 / 2	$114,000	94k	N/A	20k	Title: Software Engineer	N/A
+Comcast	Denver, CO	1/29/2022	Senior Engineer	Distributed Systems (Back-End)	4 / 7	$149,000	135k	3k	11k	Title: Video Software Engineer, Race: White, Academic Level: Bachelor’s degree	Gender: Male
+RBC	Toronto, ON, Canada	1/29/2022	PL07	Data	0 / 9	$117,000	105k	N/A	12k	Title: Senior Data Engineer	N/A
+Capsule	New York, NY	1/29/2022	L3	API Development (Back-End)	0 / 2	$220,000	180k	40k	N/A	Remote, Title: Software Engineer	N/A
+Amazon	Sydney, NS, Australia	1/29/2022	SDE I	API Development (Back-End)	0 / 1	$118,000	94k	7k	17k	Title: Software Development Engineer, Race: Asian, Academic Level: Bachelor’s degree	Gender: Male
+Google	Seattle, WA	1/29/2022	L3	Distributed Systems (Back-End)	1 / 1	$192,000	137k	35k	20k	Title: Software Engineer, Race: Asian, Academic Level: Doctorate (PhD)	Gender: Female
+TuSimple	San Diego, CA	1/29/2022	L3	Full Stack	0 / 0	$166,000	126k	40k	N/A	Title: Software Engineer I, Race: Asian, Academic Level: Doctorate (PhD)	Gender: Female
+Google	Dublin, DN, Ireland	1/29/2022	L6	Site Reliability (SRE)	6 / 6	$280,000	140k	100k	40k	Title: Site Reliability Engineer, Race: White, Academic Level: Bachelor’s degree	Gender: Male
+Facebook	New York, NY	1/29/2022	E4	ML / AI	0 / 0	$281,000	168k	88k	25k	+75000 sign-on bonus, Title: Research Scientist, Race: White, Academic Level: Doctorate (PhD)	Gender: Male
+Tata Consultancy Services	Edison, NJ	1/29/2022	Entry Level	Dynamics	1 / 1	$70,000	70k	N/A	N/A	Title: Software Engineer	N/A
+Garmin	Olathe, KS	1/29/2022	L4	Embedded	4 / 10	$125,000	125k	N/A	N/A	Title: Senior Embedded Software Engineer	N/A
+Bolt	Ottawa, ON, Canada	1/29/2022	L4	Testing (SDET)	0 / 2	$245,000	160k	85k	N/A	Stock options not RSUs. (Remote), Title: Software Engineer In Test, Race: Black or African American, Academic Level: Bachelor’s degree, Negotiated Amount: $10k	Gender: Male
+Google	Mountain View, CA	1/29/2022	L7	Android	12 / 12	$734,000	285k	365k	84k	Title: Senior Staff Software Engineer, Race: White, Academic Level: Master’s degree	Gender: Male
+Microsoft	Redmond, WA	1/29/2022	SDE II	Distributed Systems (Back-End)	2 / 4	$180,000	135k	30k	15k	Title: Software Engineer, Race: Two or More Races, Academic Level: Master’s degree	Gender: Male
+Microsoft	Atlanta, GA	1/29/2022	SDE	Distributed Systems (Back-End)	1 / 1	$151,000	97k	45k	9k	Title: Software Engineer, Race: Black or African American	Gender: Non-binary
+Wells Fargo	West Des Moines, IA	1/29/2022	Assistant Vice President	API Development (Back-End)	2 / 8	$145,000	132k	1k	12k	Title: Software Senior Engineer, Race: Asian, Academic Level: Master’s degree	Gender: Male
+JPMorgan Chase	New York, NY	1/29/2022	Senior Associate	Full Stack	3 / 3	$122,000	110k	N/A	12k	Title: Associate Research Analyst, Race: Asian, Academic Level: Bachelor’s degree	Gender: Male
+Stripe	Seattle, WA	1/29/2022	L2	Distributed Systems (Back-End)	0 / 3	$360,000	200k	140k	20k	Remote, Title: Backend / Api Engineer, Race: White, Academic Level: Bachelor’s degree	Gender: Male
+Bloomberg	New York, NY	1/29/2022	Software Engineer	Distributed Systems (Back-End)	2 / 2	$237,000	200k	N/A	37k	Title: Software Engineer, Race: Asian, Academic Level: Master’s degree	Gender: Male
+Cloudflare	London, EN, United Kingdom	1/29/2022	P3	Web Development (Front-End)	0 / 5	$149,000	126k	23k	N/A	Title: Software Engineer, Race: Black or African American, Academic Level: Bachelor’s degree	Gender: Male
+JPMorgan Chase	Jersey City, NJ	1/29/2022	Associate	Full Stack	0 / 0	$120,000	120k	N/A	N/A	Title: Software Engineer, Race: Black or African American, Academic Level: Bachelor’s degree	Gender: Male
+EPAM Systems	Kiev, KC, Ukraine	1/29/2022	L3	Distributed Systems (Back-End)	3 / 12	$42,000	42k	N/A	N/A	Title: Back-end, Race: White, Academic Level: Master’s degree	Gender: Male
+Google	Hyderabad, TS, India	1/29/2022	L5	Distributed Systems (Back-End)	0 / 5	$133,000	72k	50k	11k	Title: Back End Engineer, Race: Asian, Academic Level: Bachelor’s degree	Gender: Male
+Optum	Schaumburg, IL	1/29/2022	TDP	Full Stack	0 / 1	$300,000	256k	4k	40k	Title: Tdp	N/A
+Amazon	Austin, TX	1/29/2022	SDE II	API Development (Back-End)	5 / 10	$280,000	160k	120k	N/A	Title: Software Engineer, Race: White, Academic Level: Bachelor’s degree	Gender: Male
+Google	Mountain View, CA	1/29/2022	L6	Full Stack	6 / 6	$575,000	230k	290k	55k	Title: Tlm, Race: White, Academic Level: Doctorate (PhD)	Gender: Male
+Bloomberg	New York, NY	1/29/2022	Software Engineer	API Development (Back-End)	0 / 1	$175,000	145k	N/A	30k	Title: Software	N/A
+Under Armour	Austin, TX	1/29/2022	senior	API Development (Back-End)	1 / 7	$150,000	147k	N/A	3k	Title: Senior Software Engineer	N/A
+Discover	Chicago, IL	1/29/2022	L7	Full Stack	3 / 22	$134,000	125k	N/A	9k	Remote, Title: Application Engineer	N/A
+Attentive	New York, NY	1/29/2022	Senior Software Engineer I	Distributed Systems (Back-End)	0 / 12	$280,000	160k	120k	N/A	Title: Senior Software Engineer I	N/A
+Palantir	London, EN, United Kingdom	1/29/2022	Software Engineer	Android	1 / 2	$120,000	120k	N/A	N/A	Title: Forward Deployed Software Eng	N/A
+Huawei	Paris, IL, France	1/29/2022	1	ML / AI	0 / 0	$17,000	17k	N/A	N/A	Title: Software Developer	N/A
+Adobe	Seattle, WA	1/29/2022	Software Engineer 5	Distributed Systems (Back-End)	3 / 12	$425,000	230k	153k	42k	Title: Senior Software Engineer, Race: White, Academic Level: Bachelor’s degree	Gender: Male
+Google	Washington, DC	1/29/2022	L5	Site Reliability (SRE)	8 / 8	$376,000	184k	157k	35k	Title: Senior Site Reliability Engineer, Race: Asian, Academic Level: Bachelor’s degree	Gender: Male
+JPMorgan Chase	Seattle, WA	1/29/2022	Senior Associate	Security	2 / 12	$195,000	155k	N/A	40k	Title: Cybersecurity	N/A
+Cisco	Bengaluru, KA, India	1/29/2022	Software Engineer III	Web Development (Front-End)	3 / 6	$36,000	32k	N/A	4k	$4700 Joining bonus, Title: Software Engineer, Race: Asian, Academic Level: Bachelor’s degree	Gender: Male
+Comcast	Mount Laurel, NJ	1/29/2022	Engineer 3	DevOps	4 / 4	$125,000	105k	10k	10k	Title: Devops Engineer	N/A
+Amazon	Sunnyvale, CA	1/29/2022	SDE II	Wearables	4 / 8	$297,000	172k	125k	N/A	Title: Firmware Engineer, Academic Level: Master’s degree	N/A
+Amazon	Hyderabad, TS, India	1/29/2022	SDE II	Distributed Systems (Back-End)	1 / 3	$50,000	35k	15k	N/A	Title: Software Engineer, Race: Asian, Academic Level: Bachelor’s degree	Gender: Male
+Slalom Build	Seattle, WA	1/29/2022	Senior	Data	0 / 4	$121,000	110k	N/A	11k	Title: Data Engineer, Race: Asian, Academic Level: Bachelor’s degree	Gender: Male
+Microsoft	Vancouver, BC, Canada	1/29/2022	62	Android	0 / 6	$145,000	102k	31k	12k	Title: Android Engineer Ii, Race: Asian, Academic Level: Master’s degree, Negotiated Amount: $46.7k	Gender: Male
+NASA JPL	Pasadena, CA	1/29/2022	Software Engineer 1	Full Stack	2 / 2	$101,000	101k	N/A	N/A	Title: Software Systems Architect, Academic Level: Bachelor’s degree	N/A
+Amazon	Seattle, WA	1/29/2022	SDE II	Distributed Systems (Back-End)	3 / 3	$230,000	144k	80k	6k	Title: Software Development Engineer Ii	N/A
+ByteDance	Mountain View, CA	1/29/2022	2	Full Stack	0 / 3	$333,000	203k	80k	50k	Title: Software Engineer, Race: Asian, Academic Level: Master’s degree	Gender: Male
+EPAM Systems	Krakow, MA, Poland	1/29/2022	L3	Web Development (Front-End)	1 / 10	$44,000	44k	N/A	N/A	Title: Senior Javascript Developer, Race: White, Academic Level: High school or equivalent	Gender: Male
+Splunk	San Jose, CA	1/29/2022	Senior Software Engineer	Distributed Systems (Back-End)	3 / 15	$300,000	197k	75k	28k	Remote, Title: Senior Software Engineer- Cloud Infrastructure, Race: White, Academic Level: Master’s degree	Gender: Male
+Delivery Hero	Berlin, BE, Germany	1/29/2022	IC2	Web Development (Front-End)	1 / 4	$76,000	76k	N/A	N/A	Title: Software Engineer, Race: Black or African American, Academic Level: Master’s degree	Gender: Male
+Marshall Wace	London, EN, United Kingdom	1/29/2022	Software Engineer	Full Stack	1 / 10	$270,000	135k	N/A	135k	Title: Software Engineer, Race: White, Academic Level: Master’s degree	Gender: Male
+Google	New York, NY	1/29/2022	L3	Full Stack	0 / 2	$220,000	142k	N/A	78k	Title: Software Engineer, Race: Asian, Academic Level: Bachelor’s degree	Gender: Male
+Facebook	London, EN, United Kingdom	1/29/2022	E5	Android	2 / 25	$240,000	139k	88k	13k	Title: Software Engineer, Race: White, Academic Level: Master’s degree	Gender: Male
+OZON	Moscow, MC, Russia	1/29/2022	20	API Development (Back-End)	2 / 10	$68,000	48k	20k	N/A	Title: Lead Software Developer, Race: White, Academic Level: Bachelor’s degree	Gender: Male
+Microsoft	Seattle, WA	1/29/2022	62	Full Stack	3 / 3	$228,000	149k	55k	24k	Title: Software Engineer Ii	N/A
+Bolt (EU)	Tallinn, HA, Estonia	1/29/2022	Senior	API Development (Back-End)	0 / 10	$84,000	76k	8k	N/A	Title: Backend Developer, Race: White, Academic Level: Bachelor’s degree	Gender: Male
+LinkedIn	Sunnyvale, CA	1/29/2022	Software Engineer	iOS	0 / 2	$226,000	160k	50k	16k	Title: Software Engineer Ios	N/A
+Centene	St. Louis, MO	1/29/2022	Project Lead	Data	4 / 8	$138,000	132k	N/A	6k	$5000 sign-on bonus for Application Software Engineer (L2), Title: Project Lead Application Software Engineer, Race: White, Academic Level: Master’s degree	Gender: Male
+Better Mortgage	New York, NY	1/29/2022	L3	API Development (Back-End)	1 / 2	$128,000	110k	8k	10k	Title: Software Engineer, Race: Asian, Academic Level: Bachelor’s degree	Gender: Female
+Expedia Group	Seattle, WA	1/29/2022	L	API Development (Back-End)	3 / 6	$164,000	149k	15k	N/A	$1500 WFH/wellness reimbursement, fully paid transit pass, Title: Software Development Engineer Iii, Race: Asian, Academic Level: Bachelor’s degree	Gender: Male
+Ab Initio Software	Lexington, MA	1/29/2022	Developer	Full Stack	3 / 3	$185,000	165k	N/A	20k	Title: Developer, Race: White	Gender: Male
+Microsoft	Tel Aviv, TA, Israel	1/29/2022	SDE	Full Stack	2 / 4	$124,000	111k	1k	12k	Title: Software Engineer, Race: White, Academic Level: Bachelor’s degree	Gender: Female
+Raven Industries	Arizona City, AZ	1/29/2022	L1	ML / AI	0 / 2	$117,000	115k	N/A	2k	Title: Ai Engineer	N/A
+Bloomberg	New York, NY	1/29/2022	Senior Software Engineer	Site Reliability (SRE)	3 / 10	$255,000	200k	N/A	55k	Title: Senior Software Engineer	N/A
+Credit Suisse	Hong Kong, HK, Hong Kong (SAR)	1/29/2022	technology analyst	Distributed Systems (Back-End)	0 / 0	$68,000	68k	N/A	N/A	Title: Technology Analyst	N/A
+General Motors	Chandler, AZ	1/29/2022	Software Engineer 1	Testing (SDET)	0 / 0	$72,000	65k	N/A	7k	Title: Software Development Engineer In Test, Race: White, Academic Level: Bachelor’s degree	Gender: Male
+VMware	Bangalore, KA, India	1/29/2022	MTS 3	API Development (Back-End)	2 / 8	$38,000	27k	8k	3k	Title: Application Developer	N/A
+VMware	Boston, MA	1/29/2022	Senior MTS	API Development (Back-End)	4 / 4	$205,000	154k	25k	26k	Title: Smts, Race: White, Academic Level: Bachelor’s degree	Gender: Female
+Goldman Sachs	New York, NY	1/29/2022	Vice President	Distributed Systems (Back-End)	7 / 7	$295,000	157k	19k	119k	Title: Software Engineer, Race: White, Academic Level: Bachelor’s degree	Gender: Male
+Roku	San Jose, CA	1/29/2022	Senior	Testing (SDET)	1 / 15	$387,000	330k	57k	N/A	Title: Senior Automation Engineer	N/A
+Morningstar	Mumbai, MH, India	1/29/2022	L3	API Development (Back-End)	5 / 5	$27,000	27k	N/A	N/A	Title: Senior Software Engineer	N/A
+Red Hat	Raleigh, NC	1/29/2022	L2	Distributed Systems (Back-End)	5 / 5	$102,000	93k	N/A	9k	Title: Software Engineer, Race: White, Academic Level: Bachelor’s degree	Gender: Male
+LinkedIn	Sunnyvale, CA	1/29/2022	Software Engineer	Full Stack	0 / 1	$215,000	150k	50k	15k	$30k signing bonus (not included in the other numbers), TC negotiated up, Title: Software Engineer, Race: Asian, Academic Level: Bachelor’s degree, Negotiated Amount: $18k	Gender: Male
+Jack Henry & Associates	Louisville, KY	1/29/2022	L5	Full Stack	12 / 15	$126,000	124k	N/A	2k	Title: Software Engineer, Advisory, Race: White, Academic Level: Associate Degree	Gender: Male
+Deloitte	Washington, DC	1/29/2022	Analyst	iOS	1 / 3	$90,000	82k	N/A	8k	Remote, Title: Government And Public Services, Race: Asian, Academic Level: Bachelor’s degree	Gender: Male
+Ingram Micro	Irvine, CA	1/29/2022	L4	Full Stack	3 / 15	$172,000	156k	N/A	16k	Title: Lead Engineer	N/A
+GE Digital	Chicago, IL	1/29/2022	Senior SWE	Distributed Systems (Back-End)	5 / 10	$135,000	118k	N/A	17k	Title: Sr Software Engineer- Backend	N/A
+Affirm	Toronto, ON, Canada	1/29/2022	L6	API Development (Back-End)	2 / 3	$140,000	109k	25k	6k	Title: Senior Software Engineer	N/A
+Amazon	Herndon, VA	1/29/2022	SDE II	Full Stack	4 / 4	$250,000	150k	100k	N/A	Title: Software Development Engineer, Race: White, Academic Level: Bachelor’s degree	Gender: Female
+Affirm	Toronto, ON, Canada	1/29/2022	L6	Distributed Systems (Back-End)	2 / 3	$137,000	106k	25k	6k	Title: Senior Software Engineer	N/A
+VMware	Austin, TX	1/29/2022	MTS 3	Full Stack	0 / 3	$166,000	130k	16k	20k	Title: Software Engineer	N/A
+Credit Suisse	New York, NY	1/29/2022	VP	API Development (Back-End)	10 / 16	$150,000	142k	N/A	8k	Title: Lead Developer	Gender: Male
+Goldman Sachs	New York, NY	1/29/2022	Vice President	Engineering Manager	8 / 12	$289,000	190k	12k	87k	Title: Vice President, Academic Level: Master’s degree	Gender: Female
+Goldman Sachs	New York, NY	1/29/2022	Associate	Full Stack	2 / 4	$211,000	151k	N/A	60k	Title: Software Engineer	N/A
+Stripe	Canaan, NH	1/29/2022	L2	Full Stack	0 / 10	$273,000	159k	98k	16k	Remote, Title: Software Engineer	N/A
+Microsoft	Hyderabad, TS, India	1/29/2022	Senior SDE	API Development (Back-End)	1 / 9	$119,000	57k	33k	29k	Title: Senior Software Engineer, Race: Asian, Academic Level: Master’s degree	Gender: Male
+Amazon	Seattle, WA	1/29/2022	SDE I	Distributed Systems (Back-End)	3 / 3	$166,000	122k	26k	18k	$7k Relocation Bonus, Title: Software Engineer I, Race: White, Academic Level: Bachelor’s degree, Negotiated Amount: $1.3k	Gender: Male
+Citrix	Bangalore, KA, India	1/29/2022	Software Engineer I	Android	0 / 0	$24,000	16k	4k	4k	Title: Android, Race: Asian, Academic Level: Bachelor’s degree	Gender: Male
+Uber	San Francisco, CA	1/29/2022	Senior Software Engineer	Distributed Systems (Back-End)	6 / 8	$430,000	178k	240k	12k	Title: Sr Software Engineer	N/A
+General Motors	Austin, TX	1/28/2022	Software Engineer 1	Full Stack	0 / 0	$65,000	65k	N/A	N/A	Title: Software Developer	N/A
+Robinhood	Menlo Park, CA	1/28/2022	L4	Distributed Systems (Back-End)	1 / 15	$356,000	255k	75k	26k	Title: Staff Software Engineer, Academic Level: Master’s degree	Gender: Male
+Atlassian	Mountain View, CA	1/28/2022	P3	Distributed Systems (Back-End)	1 / 1	$192,000	132k	46k	14k	Title: Software Engineer	N/A
+Palo Alto Networks	San Francisco, CA	1/28/2022	Senior Staff	Distributed Systems (Back-End)	3 / 3	$233,000	172k	40k	21k	Title: Senior Staff Software Engineer, Race: Asian, Academic Level: Master’s degree	Gender: Male
