@@ -22,7 +22,7 @@ def cb():
    
 @app.route('/')
 def index():
-    return render_template('index.html',  graphJSON=create_vis(), locations=locations, genders=genders, companies=companies, countries=countries)
+    return render_template('salary.html',  graphJSON=create_vis(), locations=locations, genders=genders, companies=companies, countries=countries)
 
 def create_vis(args={}):
     location = args.get('location', None)
