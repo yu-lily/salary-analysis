@@ -1,0 +1,688 @@
+company,location,tag,gender,yoe_total,tc,base,country,state
+Amazon,"Seattle, WA",ML / AI,Female,5.0,260000.0,145000.0,United States,Washington
+Amazon,"Austin, TX",API Development (Back-End),Male,14.0,240000.0,160000.0,United States,Texas
+IBM,"Austin, TX",DevOps,Female,0.0,88000.0,88000.0,United States,Texas
+Google,"Mountain View, CA",Distributed Systems (Back-End),Male,2.0,234000.0,153000.0,United States,California
+Amazon,"Seattle, WA",Distributed Systems (Back-End),Male,1.0,170000.0,125000.0,United States,Washington
+Microsoft,"Seattle, WA",3D,Male,1.0,150000.0,117000.0,United States,Washington
+Salesforce,"Burlington, MA",Full Stack,Male,2.0,161000.0,135000.0,United States,Vermont
+Microsoft,"Redmond, WA",Full Stack,Male,10.0,243000.0,170000.0,United States,Washington
+Amazon,"Seattle, WA",Full Stack,Male,7.0,180000.0,100000.0,United States,Washington
+Microsoft,"Redmond, WA",Distributed Systems (Back-End),Male,4.0,134000.0,118000.0,United States,Washington
+Oracle,"Seattle, WA",Cloud,Female,0.0,160000.0,120000.0,United States,Washington
+Google,"Mountain View, CA",ML / AI,Female,0.0,233000.0,131000.0,United States,California
+Amazon,"Seattle, WA",Distributed Systems (Back-End),Male,10.0,211000.0,157000.0,United States,Washington
+Salesforce,"Los Angeles, CA",Performance,Male,10.0,225000.0,167000.0,United States,California
+Lyft,"San Francisco, CA",Distributed Systems (Back-End),Male,13.0,300000.0,200000.0,United States,California
+Google,"Sunnyvale, CA",ML / AI,Male,3.0,290000.0,151000.0,United States,California
+Amazon,"Seattle, WA",ML / AI,Male,3.0,295000.0,195000.0,United States,Washington
+Oracle,"Broomfield, CO",Full Stack,Male,3.0,130000.0,115000.0,United States,Colorado
+Microsoft,"Redmond, WA",Security,Male,1.0,155000.0,110000.0,United States,Washington
+Microsoft,"Redmond, WA",Full Stack,Male,10.0,160000.0,134000.0,United States,Washington
+Amazon,"Seattle, WA",Security,Male,0.0,182000.0,111000.0,United States,Washington
+Google,"Mountain View, CA",Full Stack,Male,2.0,192000.0,130000.0,United States,California
+Capital One,"Washington, DC",iOS,Female,2.0,125000.0,119000.0,United States,District of Columbia
+Microsoft,"Redmond, WA",Full Stack,Male,33.0,300000.0,199000.0,United States,Washington
+Salesforce,"Bellevue, WA",Full Stack,Male,10.0,219000.0,180000.0,United States,Washington
+Google,"New York, NY",Full Stack,Male,0.0,133000.0,118000.0,United States,New York
+Apple,"Cupertino, CA",Embedded systems,Male,1.0,147000.0,124000.0,United States,California
+IBM,"Campinas, SP, Brazil",API Development (Back-End),Male,8.0,14000.0,13000.0,Brazil,São Paulo
+Goldman Sachs,"New York, NY",Distributed Systems (Back-End),Male,4.0,200000.0,140000.0,United States,New York
+Microsoft,"Redmond, WA",Full Stack,Male,4.0,184000.0,138000.0,United States,Washington
+Facebook,"Seattle, WA",ML / AI,Male,4.0,460000.0,210000.0,United States,Washington
+Amazon,"Dublin, DN, Ireland",Web Development (Front-End),Female,0.0,80000.0,71000.0,United Kingdom,Northern Ireland
+Capital One,"Washington, DC",Distributed Systems (Back-End),Male,4.0,148000.0,136000.0,United States,District of Columbia
+Uber,"San Francisco, CA",Distributed Systems (Back-End),Male,15.0,360000.0,205000.0,United States,California
+Salesforce,"San Francisco, CA",Testing (SDET),Male,12.0,280000.0,210000.0,United States,California
+Amazon,"Sunnyvale, CA",API Development (Back-End),Male,4.0,220000.0,160000.0,United States,California
+Amazon,"Seattle, WA",Full Stack,Female,2.0,182000.0,142000.0,United States,Washington
+Google,"San Jose, CA",API Development (Back-End),Male,0.0,185000.0,120000.0,United States,California
+Amazon,"New York, NY",API Development (Back-End),Male,5.0,219000.0,156000.0,United States,New York
+JPMorgan Chase,"Chicago, IL",Distributed Systems (Back-End),Male,2.0,100000.0,100000.0,United States,Illinois
+Amazon,"Seattle, WA",API Development (Back-End),Female,4.0,145000.0,123000.0,United States,Washington
+Amazon,"Seattle, WA",Distributed Systems (Back-End),Male,5.0,190000.0,145000.0,United States,Washington
+Oracle,"Seattle, WA",Full Stack,Male,2.0,200000.0,140000.0,United States,Washington
+Facebook,"Menlo Park, CA",ML / AI,Female,0.0,169000.0,115000.0,United States,California
+Amazon,"New York, NY",Distributed Systems (Back-End),Male,3.0,200000.0,150000.0,United States,New York
+Amazon,"Seattle, WA",ML / AI,Male,7.0,260000.0,150000.0,United States,Washington
+Goldman Sachs,"New York, NY",Full Stack,Male,7.0,145000.0,125000.0,United States,New York
+Capital One,"Washington, DC",Full Stack,Male,13.0,136000.0,130000.0,United States,District of Columbia
+Google,"New York, NY",API Development (Back-End),Male,1.0,200000.0,135000.0,United States,New York
+Amazon,"Seattle, WA",Distributed Systems (Back-End),Male,8.0,280000.0,154000.0,United States,Washington
+JPMorgan Chase,"New York, NY",DevOps,Male,2.0,130000.0,120000.0,United States,New York
+Goldman Sachs,"New York, NY",Data,Male,3.0,160000.0,120000.0,United States,New York
+Amazon,"San Jose, CA",Distributed Systems (Back-End),Male,13.0,352000.0,180000.0,United States,California
+Amazon,"Bellevue, WA",API Development (Back-End),Male,4.0,194000.0,142000.0,United States,Washington
+Microsoft,"San Francisco, CA",Distributed Systems (Back-End),Male,9.0,292000.0,210000.0,United States,California
+IBM,"Durham, NC",Distributed Systems (Back-End),Male,19.0,185000.0,185000.0,United States,North Carolina
+IBM,"Durham, NC",Distributed Systems (Back-End),Male,19.0,185000.0,185000.0,United States,North Carolina
+Oracle,"Seattle, WA",Security,Male,15.0,310000.0,180000.0,United States,Washington
+IBM,"Reston, VA",Full Stack,Male,10.0,146000.0,138000.0,United States,Virginia
+Capital One,"Washington, DC",Full Stack,Male,1.0,123000.0,117000.0,United States,District of Columbia
+Amazon,"Philadelphia, PA",Full Stack,Male,4.0,165000.0,140000.0,United States,Pennsylvania
+Google,"San Bruno, CA",API Development (Back-End),Male,5.0,352000.0,170000.0,United States,California
+Facebook,"Menlo Park, CA",ML / AI,Male,4.0,284000.0,167000.0,United States,California
+Cisco,"Austin, TX",Web Development (Front-End),Female,8.0,180000.0,140000.0,United States,Texas
+Amazon,"Seattle, WA",DevOps,Male,5.0,200000.0,160000.0,United States,Washington
+Capital One,"New York, NY",API Development (Back-End),Male,3.0,135000.0,125000.0,United States,New York
+Amazon,"Seattle, WA",API Development (Back-End),Male,0.0,138000.0,108000.0,United States,Washington
+Cisco,"San Jose, CA",Networking,Male,4.0,222000.0,148000.0,United States,California
+Oracle,"Seattle, WA",Full Stack,Male,1.0,210000.0,140000.0,United States,Washington
+Google,"San Francisco, CA",Distributed Systems (Back-End),Male,3.0,210000.0,140000.0,United States,California
+Microsoft,"Hyderabad, TS, India",ML / AI,Male,4.0,40000.0,25000.0,India,Telangana
+Microsoft,"Seattle, WA",API Development (Back-End),Male,2.0,162000.0,120000.0,United States,Washington
+Amazon,"San Francisco, CA",API Development (Back-End),Male,1.0,190000.0,135000.0,United States,California
+Google,"Sunnyvale, CA",Distributed Systems (Back-End),Male,5.0,400000.0,210000.0,United States,California
+IBM,"Austin, TX",Distributed Systems (Back-End),Male,2.0,126000.0,126000.0,United States,Texas
+Google,"San Francisco, CA",Android,Male,3.0,250000.0,160000.0,United States,California
+Apple,"Austin, TX",iOS,Male,16.0,365000.0,165000.0,United States,Texas
+Microsoft,"Seattle, WA",Full Stack,Male,2.0,186000.0,131000.0,United States,Washington
+Amazon,"Seattle, WA",Full Stack,Male,5.0,211000.0,156000.0,United States,Washington
+Lyft,"Palo Alto, CA",ML / AI,Male,7.0,366000.0,189000.0,United States,California
+IBM,"San Francisco, CA",Distributed Systems (Back-End),Male,8.0,228000.0,218000.0,United States,California
+Google,"Mountain View, CA",Full Stack,Male,8.0,300000.0,190000.0,United States,California
+Google,"Mountain View, CA",ML / AI,Female,0.0,206000.0,149000.0,United States,California
+Amazon,"Seattle, WA",Distributed Systems (Back-End),Male,3.0,240000.0,143000.0,United States,Washington
+Amazon,"San Francisco, CA",Distributed Systems (Back-End),Male,8.0,250000.0,155000.0,United States,California
+Microsoft,"Sunnyvale, CA",Networking,Male,5.0,175000.0,150000.0,United States,California
+Qualcomm,"San Diego, CA",Embedded Software,Male,1.0,115000.0,100000.0,United States,California
+JPMorgan Chase,"New York, NY",Full Stack,Male,6.0,145000.0,140000.0,United States,New York
+JPMorgan Chase,"Columbus, OH",Full Stack,Male,1.0,92000.0,87000.0,United States,Ohio
+Cisco,"Vancouver, BC, Canada",Distributed Systems (Back-End),Male,10.0,167000.0,118000.0,Canada,British Columbia
+JPMorgan Chase,"New York, NY",Full Stack,Male,5.0,137000.0,125000.0,United States,New York
+Uber,"Bengaluru, KA, India",Full Stack,Male,0.0,42000.0,25000.0,India,Karnataka
+Facebook,"San Francisco, CA",Distributed Systems (Back-End),Male,6.0,337000.0,185000.0,United States,California
+Facebook,"Seattle, WA",ML / AI,Male,0.0,213000.0,115000.0,United States,Washington
+Amazon,"Hyderabad, AP, India",Distributed Systems (Back-End),Male,5.0,50000.0,37000.0,India,Andhra Pradesh
+Lyft,"San Francisco, CA",Full Stack,Male,3.0,300000.0,165000.0,United States,California
+Microsoft,"Sunnyvale, CA",Networking,Male,5.0,217000.0,170000.0,United States,California
+Google,"Sunnyvale, CA",Distributed Systems (Back-End),Male,3.0,235000.0,150000.0,United States,California
+Qualcomm,"San Diego, CA",API Development (Back-End),Female,7.0,180000.0,130000.0,United States,California
+Qualcomm,"San Diego, CA",Networking,Female,5.0,173000.0,130000.0,United States,California
+Facebook,"Menlo Park, CA",Full Stack,Male,7.0,293000.0,167000.0,United States,California
+Amazon,"Boston, MA",Storage,Male,24.0,202000.0,152000.0,United States,Massachusetts
+Amazon,"Chennai, TN, India",Distributed Systems (Back-End),Male,21.0,125000.0,80000.0,India,Tamil Nadu
+Lyft,"Seattle, WA",Distributed Systems (Back-End),Male,11.0,410000.0,195000.0,United States,Washington
+Facebook,"Seattle, WA",Distributed Systems (Back-End),Male,11.0,455000.0,205000.0,United States,Washington
+Amazon,"San Francisco, CA",Distributed Systems (Back-End),Male,6.0,179000.0,128000.0,United States,California
+IBM,"San Francisco, CA",ML / AI,Male,0.0,160000.0,140000.0,United States,California
+Amazon,"Bellevue, WA",iOS,Male,2.0,153000.0,125000.0,United States,Washington
+Google,"Seattle, WA",Full Stack,Male,7.0,362000.0,188000.0,United States,Washington
+IBM,"San Jose, CA",ML / AI,Male,0.0,140000.0,140000.0,United States,California
+Salesforce,"Bellevue, WA",Web Development (Front-End),Male,20.0,310000.0,210000.0,United States,Washington
+Uber,"Pittsburgh, PA",ML / AI,Male,1.0,180000.0,135000.0,United States,Pennsylvania
+Amazon,"Seattle, WA",Full Stack,Female,5.0,170000.0,150000.0,United States,Washington
+Microsoft,"Redmond, WA",Full Stack,Male,5.0,320000.0,189000.0,United States,Washington
+Google,"Sunnyvale, CA",Distributed Systems (Back-End),Male,15.0,610000.0,225000.0,United States,California
+JPMorgan Chase,"Houston, TX",Full Stack,Female,8.0,160000.0,138000.0,United States,Texas
+Facebook,"Menlo Park, CA",Distributed Systems (Back-End),Male,12.0,470000.0,225000.0,United States,California
+IBM,"Houston, TX",Distributed Systems (Back-End),Female,5.0,137000.0,137000.0,United States,Texas
+Apple,"Cupertino, CA",Security,Female,1.0,161000.0,139000.0,United States,California
+Amazon,"Seattle, WA",API Development (Back-End),Male,7.0,200000.0,150000.0,United States,Washington
+Facebook,"New York, NY",ML / AI,Female,2.0,258000.0,167000.0,United States,New York
+Goldman Sachs,"London, EN, United Kingdom",Full Stack,Male,1.0,134000.0,71000.0,United Kingdom,England
+Facebook,"Redmond, WA",Research,Male,13.0,295000.0,180000.0,United States,Washington
+Apple,"Cupertino, CA",ML / AI,Male,0.0,227000.0,155000.0,United States,California
+Google,"Pittsburgh, PA",Full Stack,Male,1.0,139000.0,103000.0,United States,Pennsylvania
+Facebook,"San Francisco, CA",API Development (Back-End),Male,1.0,165000.0,110000.0,United States,California
+Salesforce,"San Francisco, CA",Full Stack,Male,0.0,175000.0,130000.0,United States,California
+Capital One,"Plano, TX",Web Development (Front-End),Male,2.0,97000.0,94000.0,United States,Texas
+JPMorgan Chase,"Houston, TX",Full Stack,Male,1.0,97000.0,92000.0,United States,Texas
+JPMorgan Chase,"New York, NY",Full Stack,Male,8.0,164000.0,139000.0,United States,New York
+Amazon,"Seattle, WA",Full Stack,Male,8.0,250000.0,142000.0,United States,Washington
+Microsoft,"Redmond, WA",Distributed Systems (Back-End),Male,8.0,184000.0,158000.0,United States,Washington
+JPMorgan Chase,"Seattle, WA",Security,Male,19.0,450000.0,250000.0,United States,Washington
+Apple,"Cupertino, CA",Web Development (Front-End),Male,18.0,273000.0,170000.0,United States,California
+Uber,"Boulder, CO",Distributed Systems (Back-End),Male,8.0,297000.0,169000.0,United States,Colorado
+Google,"Pittsburgh, PA",Distributed Systems (Back-End),Male,22.0,302000.0,150000.0,United States,Pennsylvania
+Apple,"Cupertino, CA",ML / AI,Male,3.0,260000.0,150000.0,United States,California
+Amazon,"Seattle, WA",Full Stack,Male,5.0,235000.0,140000.0,United States,Washington
+Microsoft,"Redmond, WA",Full Stack,Male,1.0,179000.0,109000.0,United States,Washington
+Amazon,"Boulder, CO",ML / AI,Male,2.0,165000.0,140000.0,United States,Colorado
+Google,"Mountain View, CA",Distributed Systems (Back-End),Female,8.0,404000.0,200000.0,United States,California
+Google,"New York, NY",Distributed Systems (Back-End),Male,18.0,525000.0,248000.0,United States,New York
+Microsoft,"Redmond, WA",API Development (Back-End),Male,5.0,233000.0,163000.0,United States,Washington
+Microsoft,"Seattle, WA",Full Stack,Male,0.0,140000.0,110000.0,United States,Washington
+Amazon,"Bangalore, KA, India",Full Stack,Male,4.0,44000.0,36000.0,India,Karnataka
+Amazon,"Vancouver, BC, Canada",Distributed Systems (Back-End),Male,10.0,145000.0,103000.0,Canada,British Columbia
+Microsoft,"Redmond, WA",iOS,Male,3.0,184000.0,132000.0,United States,Washington
+Amazon,"Seattle, WA",Security,Male,1.0,142000.0,116000.0,United States,Washington
+JPMorgan Chase,"Chicago, IL",Full Stack,Female,1.0,100000.0,95000.0,United States,Illinois
+Uber,"San Francisco, CA",iOS,Male,3.0,220000.0,142000.0,United States,California
+Facebook,"Menlo Park, CA",Web Development (Front-End),Male,0.0,161000.0,110000.0,United States,California
+Facebook,"Menlo Park, CA",Distributed Systems (Back-End),Male,6.0,335000.0,181000.0,United States,California
+Uber,"San Francisco, CA",Full Stack,Male,30.0,467000.0,225000.0,United States,California
+Lyft,"San Francisco, CA",Web Development (Front-End),Male,4.0,268000.0,160000.0,United States,California
+Apple,"Cupertino, CA",ML / AI,Female,1.0,233000.0,152000.0,United States,California
+Amazon,"Seattle, WA",Full Stack,Male,0.0,148000.0,112000.0,United States,Washington
+Salesforce,"San Francisco, CA",Performance Engineer,Male,9.0,268000.0,198000.0,United States,California
+Facebook,"New York, NY",API Development (Back-End),Male,3.0,250000.0,148000.0,United States,New York
+IBM,"San Jose, CA",API Development (Back-End),Male,5.0,180000.0,180000.0,United States,California
+Goldman Sachs,"New York, NY",API Development (Back-End),Male,4.0,223000.0,150000.0,United States,New York
+Microsoft,"Redmond, WA",Distributed Systems (Back-End),Male,4.0,160000.0,131000.0,United States,Washington
+Apple,"New York, NY",API Development (Back-End),Male,5.0,172000.0,137000.0,United States,New York
+Amazon,"Austin, TX",New grad role,Male,0.0,156000.0,112000.0,United States,Texas
+Oracle,"Reston, VA",API Development (Back-End),Male,24.0,108000.0,108000.0,United States,Virginia
+Google,"New York, NY",Full Stack,Male,5.0,300000.0,150000.0,United States,New York
+Facebook,"Menlo Park, CA",Full Stack,Male,2.0,197000.0,143000.0,United States,California
+Oracle,"Seattle, WA",DevOps,Male,3.0,175000.0,120000.0,United States,Washington
+Microsoft,"Redmond, WA",API Development (Back-End),Male,8.0,235000.0,157000.0,United States,Washington
+Amazon,"Seattle, WA",Distributed Systems (Back-End),Male,7.0,205000.0,145000.0,United States,Washington
+Facebook,"Menlo Park, CA",iOS,Male,7.0,231000.0,160000.0,United States,California
+JPMorgan Chase,"Houston, TX",API Development (Back-End),Male,1.0,103000.0,95000.0,United States,Texas
+IBM,"Atlanta, GA",Full Stack,Male,0.0,47000.0,47000.0,United States,Georgia
+Uber,"San Francisco, CA",Mobile (iOS + Android),Male,10.0,335000.0,197000.0,United States,California
+Microsoft,"Redmond, WA",Distributed Systems (Back-End),Male,5.0,175000.0,145000.0,United States,Washington
+Goldman Sachs,"New York, NY",Web Development (Front-End),Male,5.0,140000.0,127000.0,United States,New York
+Oracle,"Colorado Springs, CO",API Development (Back-End),Male,22.0,165000.0,160000.0,United States,Colorado
+Goldman Sachs,"New York, NY",Full Stack,Male,6.0,176000.0,128000.0,United States,New York
+JPMorgan Chase,"Seattle, WA",Full Stack,Male,1.0,116000.0,106000.0,United States,Washington
+Google,"Boston, MA",Networking,Male,8.0,386000.0,188000.0,United States,Massachusetts
+Facebook,"Washington, DC",Full Stack,Male,4.0,250000.0,155000.0,United States,District of Columbia
+Goldman Sachs,"Chicago, IL",Full Stack,Male,17.0,137000.0,137000.0,United States,Illinois
+Oracle,"San Francisco, CA",Distributed Systems (Back-End),Male,0.0,175000.0,130000.0,United States,California
+Cisco,"San Jose, CA",API Development (Back-End),Male,4.0,148000.0,126000.0,United States,California
+Amazon,"Seattle, WA",Distributed Systems (Back-End),Male,8.0,195000.0,152000.0,United States,Washington
+Google,"Mountain View, CA",Mobile (iOS + Android),Male,7.0,307000.0,168000.0,United States,California
+Microsoft,"Redmond, WA",Devices,Male,3.0,180000.0,133000.0,United States,Washington
+JPMorgan Chase,"New York, NY",API Development (Back-End),Male,7.0,118000.0,110000.0,United States,New York
+Apple,"Cupertino, CA",ML / AI,Male,0.0,217000.0,150000.0,United States,California
+Microsoft,"Seattle, WA",Distributed Systems (Back-End),Female,13.0,230000.0,190000.0,United States,Washington
+Google,"Boulder, CO",Embedded Systems,Male,12.0,292000.0,161000.0,United States,Colorado
+IBM,"Rochester, MN",Operating Systems,Male,26.0,132000.0,132000.0,United States,Minnesota
+Microsoft,"Redmond, WA",Cloud,Female,1.0,159000.0,121000.0,United States,Washington
+Microsoft,"Seattle, WA",Distributed Systems (Back-End),Male,2.0,192000.0,132000.0,United States,Washington
+Microsoft,"Redmond, WA",ML / AI,Male,3.0,160000.0,140000.0,United States,Washington
+Facebook,"Seattle, WA",Full Stack,Male,4.0,220000.0,150000.0,United States,Washington
+Google,"Mountain View, CA",API Development (Back-End),Male,7.0,290000.0,180000.0,United States,California
+Facebook,"Menlo Park, CA",iOS,Male,10.0,485000.0,215000.0,United States,California
+Google,"Cambridge, MA",API Development (Back-End),Male,16.0,322000.0,177000.0,United States,Massachusetts
+Oracle,"Redwood City, CA",API Development (Back-End),Male,32.0,395000.0,230000.0,United States,California
+Amazon,"San Francisco, CA",iOS,Male,1.0,154000.0,119000.0,United States,California
+Cisco,"San Jose, CA",Full Stack,Male,7.0,170000.0,131000.0,United States,California
+Amazon,"Seattle, WA",Full Stack,Male,0.0,140000.0,108000.0,United States,Washington
+Facebook,"Seattle, WA",Operating Systems,Male,15.0,431000.0,199000.0,United States,Washington
+Google,"Mountain View, CA",Distributed Systems (Back-End),Female,5.0,260000.0,210000.0,United States,California
+Google,"Mountain View, CA",ML / AI,Male,6.0,308000.0,180000.0,United States,California
+Cisco,"San Jose, CA",Networking,Male,18.0,220000.0,160000.0,United States,California
+Cisco,"Austin, TX",DevOps,Male,4.0,145000.0,120000.0,United States,Texas
+Goldman Sachs,"Jersey City, NJ",API Development (Back-End),Female,0.0,130000.0,110000.0,United States,New Jersey
+Amazon,"Toronto, ON, Canada",Distributed Systems (Back-End),Male,5.0,165000.0,120000.0,Canada,Ontario
+Amazon,"Toronto, ON, Canada",Distributed Systems (Back-End),Male,5.0,165000.0,120000.0,Canada,Ontario
+Goldman Sachs,"New York, NY",Distributed Systems (Back-End),Male,3.0,169000.0,135000.0,United States,New York
+Lyft,"San Francisco, CA",Android,Male,7.0,369000.0,185000.0,United States,California
+Uber,"San Francisco, CA",Autonomous,Male,4.0,402000.0,195000.0,United States,California
+Google,"Zurich, ZH, Switzerland",DevOps,Male,7.0,260000.0,160000.0,Switzerland,Zurich
+Apple,"Sunnyvale, CA",computer vision,Male,5.0,260000.0,160000.0,United States,California
+Goldman Sachs,"New York, NY",Full Stack,Male,5.0,165000.0,131000.0,United States,New York
+Apple,"San Jose, CA",iOS,Male,30.0,776000.0,316000.0,United States,California
+Facebook,"Menlo Park, CA",Android,Male,3.0,271000.0,165000.0,United States,California
+Amazon,"Seattle, WA",Distributed Systems (Back-End),Male,0.0,145000.0,112000.0,United States,Washington
+Facebook,"Seattle, WA",API Development (Back-End),Male,0.0,168000.0,118000.0,United States,Washington
+JPMorgan Chase,"New York, NY",ML / AI,Male,7.0,215000.0,175000.0,United States,New York
+Google,"Kirkland, WA",Distributed Systems (Back-End),Male,0.0,239000.0,139000.0,United States,Washington
+Microsoft,"Redmond, WA",Full Stack,Male,4.0,215000.0,155000.0,United States,Washington
+Google,"San Bruno, CA",DevOps,Male,3.0,225000.0,152000.0,United States,California
+Facebook,"Menlo Park, CA",ML / AI,Male,3.0,203000.0,148000.0,United States,California
+JPMorgan Chase,"Mumbai, MH, India",Distributed Systems (Back-End),Male,9.0,27000.0,23000.0,India,Maharashtra
+Google,"New York, NY",Distributed Systems (Back-End),Male,21.0,313000.0,189000.0,United States,New York
+Google,"New York, NY",Distributed Systems (Back-End),Male,21.0,313000.0,189000.0,United States,New York
+Facebook,"Menlo Park, CA",Developer infrastructure,Male,9.0,259000.0,160000.0,United States,California
+Uber,"Sao Paulo, SP, Brazil",Distributed Systems (Back-End),Male,5.0,120000.0,86000.0,Brazil,São Paulo
+Facebook,"New York, NY",iOS,Male,7.0,238000.0,148000.0,United States,New York
+Apple,"Cupertino, CA",Firmware,Male,22.0,570000.0,215000.0,United States,California
+Google,"New York, NY",API Development (Back-End),Male,0.0,170000.0,126000.0,United States,New York
+Amazon,"Toronto, ON, Canada",Distributed Systems (Back-End),Male,0.0,130000.0,100000.0,Canada,Ontario
+Goldman Sachs,"New York, NY",API Development (Back-End),Male,1.0,160000.0,115000.0,United States,New York
+Amazon,"Palo Alto, CA",Distributed Systems (Back-End),Male,15.0,550000.0,185000.0,United States,California
+Lyft,"Palo Alto, CA",ML / AI,Female,0.0,230000.0,147000.0,United States,California
+Amazon,"Seattle, WA",Distributed Systems (Back-End),Male,20.0,300000.0,150000.0,United States,Washington
+Microsoft,"Seattle, WA",iOS,Male,4.0,165000.0,135000.0,United States,Washington
+Uber,"San Francisco, CA",Full Stack,Female,4.0,216000.0,155000.0,United States,California
+Salesforce,"Bengaluru, KA, India",Distributed Systems (Back-End),Male,6.0,64000.0,48000.0,India,Karnataka
+Microsoft,"Redmond, WA",Distributed Systems (Back-End),Male,4.0,174000.0,146000.0,United States,Washington
+Amazon,"Palo Alto, CA",Distributed Systems (Back-End),Male,8.0,228000.0,152000.0,United States,California
+Salesforce,"San Francisco, CA",DevOps,Male,7.0,300000.0,195000.0,United States,California
+Uber,"New York, NY",API Development (Back-End),Male,4.0,237000.0,149000.0,United States,New York
+Salesforce,"San Francisco, CA",Full Stack,Male,3.0,207000.0,156000.0,United States,California
+Google,"Los Angeles, CA",ML / AI,Male,1.0,185000.0,116000.0,United States,California
+Microsoft,"Seattle, WA",Distributed Systems (Back-End),Male,2.0,183000.0,118000.0,United States,Washington
+Oracle,"San Francisco, CA",Distributed Systems (Back-End),Male,4.0,100000.0,100000.0,United States,California
+IBM,"New York, NY",API Development (Back-End),Male,1.0,111000.0,107000.0,United States,New York
+Capital One,"Plano, TX",Web Development (Front-End),Male,2.0,108000.0,105000.0,United States,Texas
+Microsoft,"Redmond, WA",API Development (Back-End),Male,14.0,210000.0,167000.0,United States,Washington
+Google,"Sunnyvale, CA",Distributed Systems (Back-End),Female,2.0,250000.0,160000.0,United States,California
+JPMorgan Chase,"Plano, TX",API Development (Back-End),Male,15.0,125000.0,120000.0,United States,Texas
+Microsoft,"Bellevue, WA",Web Development (Front-End),Male,6.0,250000.0,160000.0,United States,Washington
+Microsoft,"Seattle, WA",DevOps,Female,1.0,161000.0,121000.0,United States,Washington
+Amazon,"Seattle, WA",Mobile (iOS + Android),Male,2.0,200000.0,142000.0,United States,Washington
+Salesforce,"San Francisco, CA",Distributed Systems (Back-End),Male,13.0,330000.0,218000.0,United States,California
+Microsoft,"Redmond, WA",Full Stack,Male,2.0,180000.0,121000.0,United States,Washington
+Google,"Boston, MA",Distributed Systems (Back-End),Male,1.0,186000.0,119000.0,United States,Massachusetts
+Microsoft,"Redmond, WA",API Development (Back-End),Female,1.0,158000.0,120000.0,United States,Washington
+Cisco,"San Jose, CA",Full Stack,Male,15.0,415000.0,210000.0,United States,California
+Apple,"Cupertino, CA",ML / AI,Female,3.0,260000.0,165000.0,United States,California
+Amazon,"Seattle, WA",Distributed Systems (Back-End),Male,2.0,200000.0,142000.0,United States,Washington
+Microsoft,"Redmond, WA",Engineering systems,Male,17.0,324000.0,190000.0,United States,Washington
+Google,"Sunnyvale, CA",Networking,Male,8.0,296000.0,166000.0,United States,California
+Facebook,"New York, NY",Systems/ML,Male,2.0,252000.0,152000.0,United States,New York
+Amazon,"Seattle, WA",Distributed Systems (Back-End),Male,23.0,300000.0,150000.0,United States,Washington
+Microsoft,"Seattle, WA",Distributed Systems (Back-End),Male,4.0,169000.0,143000.0,United States,Washington
+Qualcomm,"San Diego, CA",API Development (Back-End),Male,3.0,160000.0,120000.0,United States,California
+Facebook,"Menlo Park, CA",Web Development (Front-End),Male,5.0,209000.0,140000.0,United States,California
+Google,"Mountain View, CA",Android,Male,2.0,271000.0,152000.0,United States,California
+Amazon,"Seattle, WA",Full Stack,Male,6.0,230000.0,150000.0,United States,Washington
+Qualcomm,"San Diego, CA",Modem,Male,5.0,142000.0,117000.0,United States,California
+Oracle,"Santa Clara, CA",Distributed Systems (Back-End),Male,15.0,390000.0,220000.0,United States,California
+Oracle,"Seattle, WA",Cloud,Male,0.0,156000.0,120000.0,United States,Washington
+Oracle,"Seattle, WA",Distributed Systems (Back-End),Male,8.0,340000.0,175000.0,United States,Washington
+Uber,"San Francisco, CA",iOS,Male,3.0,189000.0,144000.0,United States,California
+Capital One,"New York, NY",API Development (Back-End),Male,3.0,116000.0,106000.0,United States,New York
+IBM,"Austin, TX",Full Stack,Male,4.0,121000.0,121000.0,United States,Texas
+Oracle,"Seattle, WA",Oracle Cloud Infrastructure,Male,2.0,169000.0,135000.0,United States,Washington
+Capital One,"Arlington, VA",Full Stack,Male,2.0,120000.0,117000.0,United States,Virginia
+Amazon,"New York, NY",API Development (Back-End),Male,0.0,156000.0,123000.0,United States,New York
+Facebook,"Menlo Park, CA",API Development (Back-End),Male,2.0,204000.0,147000.0,United States,California
+Oracle,"Seattle, WA",Distributed Systems (Back-End),Male,3.0,252000.0,155000.0,United States,Washington
+Amazon,"Boulder, CO",Full Stack,Male,4.0,235000.0,160000.0,United States,Colorado
+Amazon,"Vancouver, BC, Canada",Distributed Systems (Back-End),Male,16.0,100000.0,100000.0,Canada,British Columbia
+Capital One,"Washington, DC",ML / AI,Male,1.0,108000.0,102000.0,United States,District of Columbia
+Amazon,"Seattle, WA",Full Stack,Male,8.0,290000.0,157000.0,United States,Washington
+Facebook,"New York, NY",API Development (Back-End),Male,4.0,261000.0,165000.0,United States,New York
+Google,"Mountain View, CA",ML / AI,Male,0.0,191000.0,129000.0,United States,California
+Amazon,"Boston, MA",Full Stack,Male,3.0,195000.0,142000.0,United States,Massachusetts
+Amazon,"Boston, MA",API Development (Back-End),Male,5.0,225000.0,145000.0,United States,Massachusetts
+Amazon,"Seattle, WA",ML / AI,Male,15.0,500000.0,160000.0,United States,Washington
+Google,"Zurich, ZH, Switzerland",Full Stack,Male,5.0,285000.0,185000.0,Switzerland,Zurich
+Microsoft,"Redmond, WA",Testing (SDET),Male,8.0,196000.0,154000.0,United States,Washington
+Google,"Mountain View, CA",iOS,Male,2.0,192000.0,128000.0,United States,California
+Salesforce,"San Francisco, CA",Distributed Systems (Back-End),Male,23.0,619000.0,295000.0,United States,California
+Microsoft,"Seattle, WA",ML / AI,Male,0.0,160000.0,109000.0,United States,Washington
+Facebook,"New York, NY",Android,Male,2.0,272000.0,150000.0,United States,New York
+Amazon,"Toronto, ON, Canada",Distributed Systems (Back-End),Male,13.0,188000.0,113000.0,Canada,Ontario
+Cisco,"San Jose, CA",Web Development (Front-End),Male,8.0,175000.0,131000.0,United States,California
+JPMorgan Chase,"New York, NY",Full Stack,Female,10.0,145000.0,135000.0,United States,New York
+Google,"Cambridge, MA",Distributed Systems (Back-End),Male,10.0,205000.0,137000.0,United States,Massachusetts
+Goldman Sachs,"New York, NY",Web Development (Front-End),Female,1.0,140000.0,110000.0,United States,New York
+Goldman Sachs,"New York, NY",Full Stack,Male,9.0,270000.0,175000.0,United States,New York
+Amazon,"Austin, TX",Embedded,Male,3.0,200000.0,150000.0,United States,Texas
+Amazon,"Seattle, WA",API Development (Back-End),Male,11.0,250000.0,160000.0,United States,Washington
+Uber,"San Francisco, CA",Distributed Systems (Back-End),Male,8.0,301000.0,155000.0,United States,California
+Google,"New York, NY",Full Stack,Male,5.0,261000.0,153000.0,United States,New York
+Amazon,"London, EN, United Kingdom",Full Stack,Male,2.0,78000.0,60000.0,United Kingdom,England
+Goldman Sachs,"New York, NY",Data Engineer,Male,2.0,146000.0,110000.0,United States,New York
+Amazon,"Seattle, WA",API Development (Back-End),Male,7.0,294000.0,154000.0,United States,Washington
+Amazon,"Seattle, WA",Distributed Systems (Back-End),Male,2.0,189000.0,142000.0,United States,Washington
+Amazon,"Seattle, WA",API Development (Back-End),Male,0.0,142000.0,108000.0,United States,Washington
+Oracle,"Seattle, WA",Full Stack,Male,11.0,400000.0,200000.0,United States,Washington
+Uber,"San Francisco, CA",API Development (Back-End),Male,9.0,480000.0,200000.0,United States,California
+Google,"Seattle, WA",DevOps,Male,8.0,301000.0,164000.0,United States,Washington
+Salesforce,"San Francisco, CA",API Development (Back-End),Female,12.0,250000.0,175000.0,United States,California
+Uber,"Pittsburgh, PA",Embedded,Male,4.0,179000.0,127000.0,United States,Pennsylvania
+Microsoft,"Redmond, WA",API Development (Back-End),Male,2.0,155000.0,123000.0,United States,Washington
+Amazon,"Seattle, WA",Distributed Systems (Back-End),Male,3.0,190000.0,147000.0,United States,Washington
+Amazon,"Seattle, WA",Distributed Systems (Back-End),Male,1.0,135000.0,105000.0,United States,Washington
+Amazon,"Seattle, WA",Distributed Systems (Back-End),Male,0.0,148000.0,112000.0,United States,Washington
+Amazon,"Seattle, WA",API Development (Back-End),Male,13.0,300000.0,150000.0,United States,Washington
+Apple,"Seattle, WA",ML / AI,Male,4.0,179000.0,135000.0,United States,Washington
+Salesforce,"Bellevue, WA",Distributed Systems (Back-End),Female,3.0,171000.0,133000.0,United States,Washington
+Qualcomm,"San Diego, CA",Full Stack,Male,15.0,225000.0,160000.0,United States,California
+Google,"Los Angeles, CA",ML / AI,Male,6.0,315000.0,160000.0,United States,California
+Amazon,"Seattle, WA",Distributed Systems (Back-End),Male,1.0,172000.0,130000.0,United States,Washington
+Amazon,"Seattle, WA",Distributed Systems (Back-End),Male,4.0,135000.0,107000.0,United States,Washington
+Microsoft,"Hyderabad, AP, India",Full Stack,Male,3.0,36000.0,23000.0,India,Andhra Pradesh
+Google,"Sunnyvale, CA",Web Development (Front-End),Male,1.0,190000.0,132000.0,United States,California
+Amazon,"New York, NY",Full Stack,Female,4.0,200000.0,150000.0,United States,New York
+Microsoft,"Redmond, WA",Full Stack,Male,4.0,156000.0,134000.0,United States,Washington
+Amazon,"New York, NY",Distributed Systems (Back-End),Male,8.0,270000.0,175000.0,United States,New York
+Salesforce,"Langhorne, PA",Full Stack,Male,21.0,163000.0,142000.0,United States,Pennsylvania
+Goldman Sachs,"New York, NY",Web Development (Front-End),Male,1.0,165000.0,110000.0,United States,New York
+Microsoft,"Oregon City, OR",Security,Male,0.0,140000.0,100000.0,United States,Oregon
+Facebook,"London, EN, United Kingdom",API Development (Back-End),Male,1.0,140000.0,99000.0,United Kingdom,England
+Amazon,"Cupertino, CA",Distributed Systems (Back-End),Male,10.0,288000.0,178000.0,United States,California
+Google,"Mountain View, CA",Chrome OS,Male,3.0,313000.0,180000.0,United States,California
+Oracle,"Pleasanton, CA",API Development (Back-End),Male,15.0,300000.0,230000.0,United States,California
+Apple,"Cupertino, CA",Operating Systems,Male,16.0,416000.0,201000.0,United States,California
+Amazon,"Seattle, WA",Full Stack,Male,1.0,193000.0,135000.0,United States,Washington
+Apple,"Cupertino, CA",ML / AI,Female,0.0,218000.0,150000.0,United States,California
+Amazon,"New York, NY",Full Stack,Female,4.0,200000.0,150000.0,United States,New York
+Microsoft,"Redmond, WA",Full Stack,Male,4.0,156000.0,134000.0,United States,Washington
+Amazon,"New York, NY",Distributed Systems (Back-End),Male,8.0,270000.0,175000.0,United States,New York
+Salesforce,"Langhorne, PA",Full Stack,Male,21.0,163000.0,142000.0,United States,Pennsylvania
+Goldman Sachs,"New York, NY",Web Development (Front-End),Male,1.0,165000.0,110000.0,United States,New York
+Microsoft,"Oregon City, OR",Security,Male,0.0,140000.0,100000.0,United States,Oregon
+Facebook,"London, EN, United Kingdom",API Development (Back-End),Male,1.0,140000.0,99000.0,United Kingdom,England
+Amazon,"Cupertino, CA",Distributed Systems (Back-End),Male,10.0,288000.0,178000.0,United States,California
+Google,"Mountain View, CA",Chrome OS,Male,3.0,313000.0,180000.0,United States,California
+Oracle,"Pleasanton, CA",API Development (Back-End),Male,15.0,300000.0,230000.0,United States,California
+Apple,"Cupertino, CA",Operating Systems,Male,16.0,416000.0,201000.0,United States,California
+Amazon,"Seattle, WA",Full Stack,Male,1.0,193000.0,135000.0,United States,Washington
+Apple,"Cupertino, CA",ML / AI,Female,0.0,218000.0,150000.0,United States,California
+Amazon,"Sunnyvale, CA",Android,Male,8.0,290000.0,182000.0,United States,California
+Qualcomm,"San Diego, CA",firmware,Male,7.0,200000.0,140000.0,United States,California
+Apple,"Cupertino, CA",API Development (Back-End),Male,10.0,380000.0,197000.0,United States,California
+Amazon,"Seattle, WA",ML / AI,Male,6.0,200000.0,128000.0,United States,Washington
+Amazon,"Seattle, WA",iOS,Male,8.0,200000.0,155000.0,United States,Washington
+Amazon,"Sunnyvale, CA",Distributed Systems (Back-End),Male,10.0,355000.0,185000.0,United States,California
+Amazon,"Seattle, WA",API Development (Back-End),Male,0.0,144000.0,112000.0,United States,Washington
+Google,"New York, NY",Full Stack,Male,5.0,367000.0,191000.0,United States,New York
+Microsoft,"Redmond, WA",DevOps,Male,20.0,280000.0,210000.0,United States,Washington
+Microsoft,"Redmond, WA",Full Stack,Female,0.0,209000.0,109000.0,United States,Washington
+Google,"Mountain View, CA",ML / AI,Male,12.0,548000.0,235000.0,United States,California
+Amazon,"Seattle, WA",Distributed Systems (Back-End),Male,0.0,136000.0,112000.0,United States,Washington
+Google,"Kirkland, WA",Distributed Systems (Back-End),Male,9.0,550000.0,211000.0,United States,Washington
+Amazon,"Seattle, WA",Full Stack,Male,0.0,149000.0,108000.0,United States,Washington
+Apple,"Cupertino, CA",API Development (Back-End),Male,8.0,400000.0,180000.0,United States,California
+Uber,"San Francisco, CA",Distributed Systems (Back-End),Male,6.0,245000.0,155000.0,United States,California
+Google,"Mountain View, CA",Distributed Systems (Back-End),Male,8.0,277000.0,163000.0,United States,California
+Google,"Bangalore, KA, India",ML / AI,Male,6.0,155000.0,54000.0,India,Karnataka
+Google,"New York, NY",Full Stack,Male,2.0,192000.0,126000.0,United States,New York
+Amazon,"Seattle, WA",Distributed Systems (Back-End),Male,5.0,300000.0,150000.0,United States,Washington
+Amazon,"Seattle, WA",Full Stack,Male,15.0,280000.0,160000.0,United States,Washington
+Oracle,"Redwood City, CA",Distributed Systems (Back-End),Male,2.0,165000.0,147000.0,United States,California
+Amazon,"Seattle, WA",Distributed Systems (Back-End),Male,3.0,163000.0,134000.0,United States,Washington
+Uber,"San Francisco, CA",Full Stack,Male,15.0,857000.0,257000.0,United States,California
+Facebook,"Menlo Park, CA",Full Stack,Male,2.0,162000.0,110000.0,United States,California
+Salesforce,"Dallas, TX",Salesforce,Male,6.0,176000.0,135000.0,United States,Texas
+Google,"Mountain View, CA",Distributed Systems (Back-End),Male,0.0,200000.0,126000.0,United States,California
+Google,"Seattle, WA",SRE,Male,3.0,198000.0,122000.0,United States,Washington
+Facebook,"Menlo Park, CA",Distributed Systems (Back-End),Male,15.0,1010000.0,280000.0,United States,California
+Microsoft,"Redmond, WA",Game Development,Male,9.0,164000.0,143000.0,United States,Washington
+Cisco,"San Jose, CA",Networking,Female,0.0,100000.0,100000.0,United States,California
+Oracle,"Broomfield, CO",Full Stack,Female,20.0,139000.0,136000.0,United States,Colorado
+Oracle,"Redwood City, CA",API Development (Back-End),Male,9.0,131000.0,131000.0,United States,California
+Microsoft,"Redmond, WA",Full Stack,Male,7.0,187000.0,146000.0,United States,Washington
+IBM,"New York, NY",API Development (Back-End),Male,8.0,179000.0,174000.0,United States,New York
+Capital One,"Washington, DC",ML / AI,Male,12.0,160000.0,150000.0,United States,District of Columbia
+Google,"Palo Alto, CA",ML / AI,Male,8.0,323000.0,185000.0,United States,California
+JPMorgan Chase,"Singapore, SG, Singapore",Full Stack,Male,5.0,56000.0,56000.0,Singapore,
+Amazon,"Seattle, WA",Unknown team,Female,1.0,132000.0,112000.0,United States,Washington
+Microsoft,"Redmond, WA",API Development (Back-End),Male,2.0,168000.0,130000.0,United States,Washington
+Oracle,"Seattle, WA",Security,Female,1.0,180000.0,140000.0,United States,Washington
+Amazon,"Seattle, WA",ML / AI,Male,3.0,195000.0,145000.0,United States,Washington
+Facebook,"Menlo Park, CA",Distributed Systems (Back-End),Female,11.0,400000.0,197000.0,United States,California
+Amazon,"Seattle, WA",Full Stack,Female,5.0,250000.0,150000.0,United States,Washington
+Salesforce,"New York, NY",API Development (Back-End),Male,8.0,201000.0,150000.0,United States,New York
+Oracle,"Santa Clara, CA",Distributed Systems (Back-End),Male,4.0,245000.0,175000.0,United States,California
+Apple,"Cambridge, EN, United Kingdom",ML / AI,Male,1.0,141000.0,85000.0,United Kingdom,England
+Microsoft,"Redmond, WA",DevOps,Female,1.0,109000.0,109000.0,United States,Washington
+Google,"Chicago, IL",API Development (Back-End),Male,1.0,165000.0,110000.0,United States,Illinois
+JPMorgan Chase,"Herzliyya, TA, Israel",API Development (Back-End),Male,15.0,125000.0,125000.0,,
+Google,"San Francisco, CA",ML / AI,Male,3.0,220000.0,141000.0,United States,California
+Google,"Los Angeles, CA",Full Stack,Male,4.0,180000.0,124000.0,United States,California
+Google,"Mountain View, CA",Distributed Systems (Back-End),Female,4.0,325000.0,180000.0,United States,California
+JPMorgan Chase,"Plano, TX",Full Stack,Male,0.0,90000.0,85000.0,United States,Texas
+Amazon,"Irvine, CA",Full Stack,Male,2.0,182000.0,142000.0,United States,California
+Goldman Sachs,"Salt Lake City, UT",API Development (Back-End),Male,4.0,110000.0,90000.0,United States,Utah
+Google,"Zurich, ZH, Switzerland",iOS,Male,2.0,169000.0,132000.0,Switzerland,Zurich
+Amazon,"London, EN, United Kingdom",Full Stack,Male,3.0,96000.0,65000.0,United Kingdom,England
+Amazon,"Seattle, WA",API Development (Back-End),Male,13.0,220000.0,150000.0,United States,Washington
+Apple,"Cupertino, CA",Machine Learning,Male,8.0,260000.0,220000.0,United States,California
+IBM,"Markham, ON, Canada",Distributed Systems (Back-End),Male,7.0,87000.0,85000.0,Canada,Ontario
+Microsoft,"Redmond, WA",API Development (Back-End),Female,4.0,140000.0,127000.0,United States,Washington
+Cisco,"Ottawa, ON, Canada",Networking,Male,7.0,110000.0,86000.0,Canada,Ontario
+Uber,"Seattle, WA",Distributed Systems (Back-End),Male,4.0,245000.0,152000.0,United States,Washington
+Apple,"Cupertino, CA",API Development (Back-End),Male,10.0,280000.0,180000.0,United States,California
+Salesforce,"Seattle, WA",Full Stack,Male,11.0,333000.0,240000.0,United States,Washington
+Facebook,"San Francisco, CA",Full Stack,Male,6.0,330000.0,200000.0,United States,California
+Amazon,"Seattle, WA",Distributed Systems (Back-End),Male,0.0,190000.0,134000.0,United States,Washington
+Microsoft,"Redmond, WA",API Development (Back-End),Male,7.0,186000.0,144000.0,United States,Washington
+Google,"Mountain View, CA",ML / AI,Male,5.0,296000.0,146000.0,United States,California
+Google,"New York, NY",Full Stack,Male,7.0,307000.0,166000.0,United States,New York
+Apple,"Cupertino, CA",Distributed Systems (Back-End),Female,4.0,250000.0,185000.0,United States,California
+Salesforce,"San Francisco, CA",API Development (Back-End),Male,2.0,245000.0,180000.0,United States,California
+Uber,"Palo Alto, CA",Distributed Systems (Back-End),Male,2.0,258000.0,155000.0,United States,California
+Google,"Sunnyvale, CA",Networking,Male,2.0,225000.0,140000.0,United States,California
+Salesforce,"San Francisco, CA",Testing (SDET),Male,13.0,328000.0,225000.0,United States,California
+Google,"Sunnyvale, CA",API Development (Back-End),Female,3.0,305000.0,150000.0,United States,California
+Amazon,"Seattle, WA",Full Stack,Male,3.0,200000.0,140000.0,United States,Washington
+Google,"Stockholm, ST, Sweden",Specialist,Male,12.0,278000.0,123000.0,Sweden,
+Capital One,"Washington, DC",Full Stack,Male,2.0,99000.0,99000.0,United States,District of Columbia
+Google,"Los Angeles, CA",Distributed Systems (Back-End),Male,3.0,247000.0,137000.0,United States,California
+Google,"San Francisco, CA",Distributed Systems (Back-End),Male,15.0,368000.0,204000.0,United States,California
+Google,"Raleigh, NC",Distributed Systems (Back-End),Male,17.0,562000.0,212000.0,United States,North Carolina
+Microsoft,"Redmond, WA",Distributed Systems (Back-End),Male,7.0,290000.0,165000.0,United States,Washington
+Microsoft,"Redmond, WA",Distributed Systems (Back-End),Male,3.0,187000.0,137000.0,United States,Washington
+Facebook,"London, EN, United Kingdom",ML / AI,Male,10.0,275000.0,130000.0,United Kingdom,England
+Amazon,"San Francisco, CA",API Development (Back-End),Male,6.0,334000.0,177000.0,United States,California
+Apple,"Cupertino, CA",ML / AI,Male,0.0,200000.0,130000.0,United States,California
+JPMorgan Chase,"Chicago, IL",Distributed Systems (Back-End),Male,1.0,95000.0,95000.0,United States,Illinois
+Salesforce,"San Francisco, CA",Full Stack,Male,10.0,368000.0,223000.0,United States,California
+IBM,"Poughkeepsie, NY",Full Stack,Female,2.0,105000.0,105000.0,United States,New York
+Oracle,"Santa Clara, CA",Distributed Systems (Back-End),Male,2.0,245000.0,130000.0,United States,California
+Google,"Boulder, CO",Distributed Systems (Back-End),Male,20.0,308000.0,164000.0,United States,Colorado
+Google,"Seattle, WA",Distributed Systems (Back-End),Male,13.0,441000.0,201000.0,United States,Washington
+Lyft,"Palo Alto, CA",Full Stack,Male,5.0,320000.0,175000.0,United States,California
+JPMorgan Chase,"Columbus, OH",API Development (Back-End),Male,1.0,83000.0,80000.0,United States,Ohio
+Amazon,"Herndon, VA",Distributed Systems (Back-End),Male,1.0,156000.0,117000.0,United States,Virginia
+Amazon,"Seattle, WA",Distributed Systems (Back-End),Male,1.0,138000.0,108000.0,United States,Washington
+Apple,"Cupertino, CA",Web Development (Front-End),Male,3.0,245000.0,160000.0,United States,California
+Facebook,"New York, NY",iOS,Male,10.0,560000.0,215000.0,United States,New York
+Goldman Sachs,"Bengaluru, KA, India",ML / AI,Male,10.0,83000.0,61000.0,India,Karnataka
+Uber,"San Francisco, CA",Web Development (Front-End),Male,8.0,401000.0,195000.0,United States,California
+Apple,"Cupertino, CA",iOS,Male,4.0,219000.0,137000.0,United States,California
+Microsoft,"Seattle, WA",Distributed Systems (Back-End),Male,6.0,227000.0,150000.0,United States,Washington
+Oracle,"Hyderabad, TS, India",Full Stack,Male,0.0,28000.0,18000.0,India,Telangana
+Oracle,"Redwood City, CA",Distributed Systems (Back-End),Male,13.0,200000.0,165000.0,United States,California
+Microsoft,"Redmond, WA",Distributed Systems (Back-End),Male,4.0,205000.0,146000.0,United States,Washington
+Google,"Los Angeles, CA",API Development (Back-End),Male,2.0,243000.0,125000.0,United States,California
+Oracle,"Santa Clara, CA",Distributed Systems (Back-End),Male,4.0,220000.0,145000.0,United States,California
+Google,"Mountain View, CA",Android,Male,1.0,207000.0,129000.0,United States,California
+Facebook,"Menlo Park, CA",Full Stack,Male,0.0,273000.0,118000.0,United States,California
+Lyft,"San Francisco, CA",Full Stack,Male,0.0,250000.0,130000.0,United States,California
+Amazon,"North Reading, MA",Testing (SDET),Male,3.0,150000.0,115000.0,United States,Massachusetts
+Microsoft,"Redmond, WA",API Development (Back-End),Male,5.0,197000.0,145000.0,United States,Washington
+Uber,"Seattle, WA",Distributed Systems (Back-End),Male,4.0,274000.0,162000.0,United States,Washington
+Amazon,"San Francisco, CA",Distributed Systems (Back-End),Male,3.0,202000.0,152000.0,United States,California
+Google,"San Francisco, CA",Web Development (Front-End),Male,5.0,217000.0,141000.0,United States,California
+Amazon,"London, EN, United Kingdom",Full Stack,Male,3.0,87000.0,61000.0,United Kingdom,England
+Google,"Pittsburgh, PA",Machine Learning,Female,12.0,247000.0,139000.0,United States,Pennsylvania
+Facebook,"Menlo Park, CA",API Development (Back-End),Female,0.0,264000.0,160000.0,United States,California
+Google,"San Francisco, CA",Web Development (Front-End),Male,1.0,193000.0,131000.0,United States,California
+Amazon,"Minneapolis, MN",Distributed Systems (Back-End),Male,7.0,273000.0,160000.0,United States,Minnesota
+Amazon,"Seattle, WA",API Development (Back-End),Male,3.0,186000.0,142000.0,United States,Washington
+Google,"Sunnyvale, CA",API Development (Back-End),Male,0.0,165000.0,120000.0,United States,California
+Apple,"San Diego, CA",DevOps,Male,0.0,158000.0,120000.0,United States,California
+Amazon,"Seattle, WA",API Development (Back-End),Male,4.0,183000.0,151000.0,United States,Washington
+Google,"New York, NY",Full Stack,Male,2.0,215000.0,137000.0,United States,New York
+Cisco,"Boston, MA",Distributed Systems (Back-End),Male,10.0,350000.0,170000.0,United States,Massachusetts
+Facebook,"Washington, DC",Full Stack,Male,0.0,158000.0,114000.0,United States,District of Columbia
+Google,"Mountain View, CA",ML / AI,Male,0.0,217000.0,130000.0,United States,California
+Amazon,"Seattle, WA",Full Stack,Male,3.0,180000.0,129000.0,United States,Washington
+Amazon,"Seattle, WA",API Development (Back-End),Female,2.0,149000.0,117000.0,United States,Washington
+Oracle,"Santa Clara, CA",API Development (Back-End),Female,2.0,178000.0,123000.0,United States,California
+Amazon,"San Francisco, CA",API Development (Back-End),Male,0.0,178000.0,128000.0,United States,California
+Google,"Tel Aviv, TA, Israel",Android,Male,15.0,178000.0,125000.0,Israel,Tel Aviv District
+Google,"Sunnyvale, CA",Distributed Systems (Back-End),Male,0.0,175000.0,127000.0,United States,California
+Google,"San Francisco, CA",Android,Female,4.0,297000.0,178000.0,United States,California
+Google,"Mountain View, CA",SRE,Male,2.0,199000.0,138000.0,United States,California
+Microsoft,"Hyderabad, TS, India",Distributed Systems (Back-End),Male,0.0,27000.0,18000.0,India,Telangana
+Amazon,"Seattle, WA",API Development (Back-End),Male,0.0,142000.0,112000.0,United States,Washington
+Microsoft,"Bellevue, WA",Full Stack,Female,2.0,185000.0,125000.0,United States,Washington
+Amazon,"Cupertino, CA",Mobile (iOS + Android),Female,4.0,237000.0,163000.0,United States,California
+Amazon,"Seattle, WA",Full Stack,Male,9.0,225000.0,144000.0,United States,Washington
+Amazon,"Seattle, WA",Distributed Systems (Back-End),Male,19.0,540000.0,160000.0,United States,Washington
+Lyft,"Palo Alto, CA",ML / AI,Male,15.0,425000.0,205000.0,United States,California
+IBM,"Poughkeepsie, NY",Full Stack,Male,1.0,98000.0,88000.0,United States,New York
+Microsoft,"Seattle, WA",Full Stack,Male,4.0,187000.0,137000.0,United States,Washington
+Microsoft,"Bangalore, KA, India",ML / AI,Male,2.0,34000.0,22000.0,India,Karnataka
+Amazon,"Seattle, WA",Distributed Systems (Back-End),Male,10.0,360000.0,160000.0,United States,Washington
+Amazon,"Seattle, WA",API Development (Back-End),Female,7.0,174000.0,142000.0,United States,Washington
+Uber,"San Francisco, CA",Web Development (Front-End),Female,3.0,178000.0,137000.0,United States,California
+Microsoft,"Seattle, WA",Full Stack,Female,2.0,205000.0,125000.0,United States,Washington
+Goldman Sachs,"New York, NY",API Development (Back-End),Female,3.0,180000.0,130000.0,United States,New York
+Amazon,"Tempe, AZ",API Development (Back-End),Male,8.0,238000.0,158000.0,United States,Arizona
+Microsoft,"Redmond, WA",API Development (Back-End),Male,4.0,192000.0,152000.0,United States,Washington
+Google,"Mountain View, CA",API Development (Back-End),Male,5.0,259000.0,150000.0,United States,California
+Qualcomm,"San Diego, CA",Android,Male,2.0,139000.0,105000.0,United States,California
+Amazon,"Seattle, WA",Distributed Systems (Back-End),Male,2.0,139000.0,108000.0,United States,Washington
+Facebook,"Menlo Park, CA",iOS,Male,0.0,168000.0,118000.0,United States,California
+Google,"San Francisco, CA",Web Development (Front-End),Male,6.0,289000.0,164000.0,United States,California
+IBM,"Poughkeepsie, NY",Distributed Systems (Back-End),Female,19.0,167000.0,167000.0,United States,New York
+Uber,"San Francisco, CA",API Development (Back-End),Male,8.0,360000.0,202000.0,United States,California
+Amazon,"Bangalore, KA, India",Full Stack,Male,11.0,196000.0,104000.0,India,Karnataka
+Google,"Mountain View, CA",API Development (Back-End),Male,8.0,280000.0,178000.0,United States,California
+Amazon,"Seattle, WA",Full Stack,Male,8.0,271000.0,160000.0,United States,Washington
+Salesforce,"Tampa, FL",DevOps,Male,18.0,175000.0,140000.0,United States,Florida
+Amazon,"Seattle, WA",API Development (Back-End),Male,6.0,244000.0,129000.0,United States,Washington
+Facebook,"Seattle, WA",Full Stack,Male,2.0,226000.0,150000.0,United States,Washington
+Amazon,"London, EN, United Kingdom",ML / AI,Male,4.0,124917.0,65000.0,United Kingdom,England
+IBM,"Stuttgart, BW, Germany",DevOps,Male,0.0,67309.0,67000.0,Germany,Baden-Württemberg
+Google,"New York, NY",Web Development (Front-End),Male,1.0,167000.0,138000.0,United States,New York
+Amazon,"Seattle, WA",Distributed Systems (Back-End),Male,10.0,260000.0,160000.0,United States,Washington
+Amazon,"Seattle, WA",Distributed Systems (Back-End),Male,25.0,244000.0,140000.0,United States,Washington
+Google,"Seattle, WA",Android,Male,7.0,291000.0,156000.0,United States,Washington
+Apple,"San Diego, CA",iOS,Male,8.0,134000.0,99000.0,United States,California
+Apple,"Cupertino, CA",Testing (SDET),Male,8.0,270000.0,180000.0,United States,California
+Qualcomm,"San Diego, CA",Mobile (iOS + Android),Male,3.0,111000.0,100000.0,United States,California
+Microsoft,"Redmond, WA",Full Stack,Male,0.0,164000.0,110000.0,United States,Washington
+Goldman Sachs,"Bengaluru, KA, India",Distributed Systems (Back-End),Male,5.0,72000.0,40000.0,India,Karnataka
+JPMorgan Chase,"New York, NY",data engineer,Male,13.0,360000.0,225000.0,United States,New York
+Qualcomm,"San Diego, CA",fw,Male,6.0,175000.0,130000.0,United States,California
+Google,"Seattle, WA",Web Development (Front-End),Male,4.0,324000.0,164000.0,United States,Washington
+Oracle,"Seattle, WA",Full Stack,Male,6.0,188000.0,147000.0,United States,Washington
+Google,"Seattle, WA",Android,Male,11.0,223000.0,138000.0,United States,Washington
+Goldman Sachs,"Jersey City, NJ",Distributed Systems (Back-End),Male,6.0,230000.0,180000.0,United States,New Jersey
+Facebook,"Seattle, WA",Full Stack,Male,7.0,327000.0,183000.0,United States,Washington
+Microsoft,"Bellevue, WA",Full Stack,Male,7.0,200000.0,160000.0,United States,Washington
+Amazon,"Bangalore, KA, India",Distributed Systems (Back-End),Female,4.0,64000.0,36000.0,India,Karnataka
+Amazon,"Seattle, WA",API Development (Back-End),Male,3.0,200000.0,135000.0,United States,Washington
+Facebook,"Menlo Park, CA",iOS,Male,12.0,333000.0,186000.0,United States,California
+Facebook,"Dublin, DN, Ireland",Distributed Systems (Back-End),Male,10.0,210000.0,126000.0,United Kingdom,Northern Ireland
+Amazon,"Seattle, WA",Testing (SDET),Male,3.0,172000.0,118000.0,United States,Washington
+Qualcomm,"San Diego, CA",Security,Male,0.0,175000.0,125000.0,United States,California
+Google,"New York, NY",API Development (Back-End),Male,2.0,208000.0,141000.0,United States,New York
+Uber,"San Francisco, CA",Web Development (Front-End),Male,2.0,244000.0,150000.0,United States,California
+Salesforce,"San Francisco, CA",API Development (Back-End),Male,10.0,280000.0,210000.0,United States,California
+Amazon,"Seattle, WA",Distributed Systems (Back-End),Male,4.0,190000.0,144000.0,United States,Washington
+Amazon,"Seattle, WA",Distributed Systems (Back-End),Male,0.0,144000.0,112000.0,United States,Washington
+Microsoft,"Redmond, WA",Full Stack,Male,4.0,174000.0,124000.0,United States,Washington
+Amazon,"Seattle, WA",Full Stack,Male,6.0,252000.0,160000.0,United States,Washington
+Facebook,"San Francisco, CA",Full Stack,Male,2.0,227000.0,161000.0,United States,California
+Uber,"Palo Alto, CA",Web Development (Front-End),Male,1.0,245000.0,150000.0,United States,California
+Amazon,"Seattle, WA",Web Development (Front-End),Male,13.0,252000.0,160000.0,United States,Washington
+Uber,"Palo Alto, CA",Distributed Systems (Back-End),Male,3.0,245000.0,150000.0,United States,California
+Google,"San Francisco, CA",Distributed Systems (Back-End),Female,6.0,340000.0,180000.0,United States,California
+Google,"San Francisco, CA",Distributed Systems (Back-End),Female,6.0,340000.0,180000.0,United States,California
+Uber,"San Francisco, CA",Full Stack,Male,0.0,158000.0,118000.0,United States,California
+Amazon,"Seattle, WA",Full Stack,Male,0.0,139000.0,112000.0,United States,Washington
+Amazon,"Vancouver, BC, Canada",Full Stack,Male,1.0,100000.0,78000.0,Canada,British Columbia
+Amazon,"Chennai, TN, India",Full Stack,Male,7.0,56000.0,44000.0,India,Tamil Nadu
+Google,"Sunnyvale, CA",DevOps,Male,4.0,210000.0,136000.0,United States,California
+Microsoft,"Sunnyvale, CA",ML / AI,Male,6.0,280000.0,180000.0,United States,California
+Amazon,"Seattle, WA",Distributed Systems (Back-End),Male,8.0,211000.0,150000.0,United States,Washington
+Google,"New York, NY",Full Stack,Male,5.0,282000.0,167000.0,United States,New York
+Microsoft,"Redmond, WA",Full Stack,Male,15.0,270000.0,160000.0,United States,Washington
+Google,"Mountain View, CA",API Development (Back-End),Male,1.0,213000.0,129000.0,United States,California
+Google,"Tel Aviv, TA, Israel",Full Stack,Male,10.0,254000.0,147000.0,Israel,Tel Aviv District
+Google,"Sunnyvale, CA",API Development (Back-End),Male,3.0,239000.0,146000.0,United States,California
+Amazon,"Seattle, WA",Full Stack,Male,1.0,140000.0,112000.0,United States,Washington
+Amazon,"Seattle, WA",Full Stack,Male,0.0,144000.0,112000.0,United States,Washington
+Cisco,"Orlando, FL",Full Stack,Male,10.0,130000.0,111000.0,United States,Florida
+Facebook,"Seattle, WA",Distributed Systems (Back-End),Male,10.0,284000.0,155000.0,United States,Washington
+Microsoft,"San Francisco, CA",Distributed Systems (Back-End),Male,18.0,650000.0,300000.0,United States,California
+Facebook,"Seattle, WA",Full Stack,Male,20.0,475000.0,225000.0,United States,Washington
+Microsoft,"Redmond, WA",iOS,Male,11.0,235000.0,165000.0,United States,Washington
+Salesforce,"Vancouver, BC, Canada",Web Development (Front-End),Male,3.0,105000.0,88000.0,Canada,British Columbia
+Goldman Sachs,"New York, NY",Full Stack,Male,10.0,310000.0,172000.0,United States,New York
+Microsoft,"Hyderabad, TS, India",API Development (Back-End),Male,3.0,50000.0,29000.0,India,Telangana
+Apple,"Cupertino, CA",Testing (SDET),Male,9.0,220000.0,170000.0,United States,California
+Amazon,"Seattle, WA",API Development (Back-End),Male,5.0,340000.0,160000.0,United States,Washington
+Microsoft,"Seattle, WA",Web Development (Front-End),Male,4.0,203000.0,147000.0,United States,Washington
+Salesforce,"San Francisco, CA",Distributed Systems (Back-End),Male,11.0,244000.0,182000.0,United States,California
+Microsoft,"Hyderabad, TS, India",DevOps,Male,1.0,39000.0,13000.0,India,Telangana
+JPMorgan Chase,"Glasgow, SC, United Kingdom",DevOps,Male,8.0,72000.0,72000.0,United Kingdom,Scotland
+Google,"Mountain View, CA",Embedded,Male,1.0,224000.0,149000.0,United States,California
+Facebook,"London, EN, United Kingdom",Full Stack,Female,4.0,139000.0,99000.0,United Kingdom,England
+Apple,"Sacramento, CA",Networking,Male,3.0,210000.0,120000.0,United States,California
+Facebook,"Menlo Park, CA",ML / AI,Female,15.0,700000.0,250000.0,United States,California
+Facebook,"Bellevue, WA",Distributed Systems (Back-End),Male,15.0,665000.0,250000.0,United States,Washington
+Facebook,"Seattle, WA",Distributed Systems (Back-End),Male,17.0,675000.0,260000.0,United States,Washington
+Google,"Kirkland, WA",Distributed Systems (Back-End),Male,6.0,230000.0,144000.0,United States,Washington
+Amazon,"San Francisco, CA",API Development (Back-End),Male,0.0,163000.0,128000.0,United States,California
+Lyft,"San Francisco, CA",Testing (SDET),Male,5.0,420000.0,200000.0,United States,California
+Google,"Los Angeles, CA",Generalist,Male,0.0,153000.0,113000.0,United States,California
+Qualcomm,"San Diego, CA",ML / AI,Male,0.0,180000.0,120000.0,United States,California
+Microsoft,"Redmond, WA",API Development (Back-End),Male,6.0,170000.0,130000.0,United States,Washington
+Oracle,"Bangalore, KA, India",API Development (Back-End),Male,1.0,30000.0,7000.0,India,Karnataka
+Amazon,"San Francisco, CA",OS,Male,5.0,430000.0,185000.0,United States,California
+Apple,"Cupertino, CA",iOS,Male,5.0,490000.0,210000.0,United States,California
+Capital One,"Wilmington, DE",Full Stack,Male,3.0,111000.0,106000.0,United States,Delaware
+Google,"Ontario, CA",DevOps,Male,4.0,200000.0,100000.0,Canada,Ontario
+Facebook,"Seattle, WA",Distributed Systems (Back-End),Male,16.0,785000.0,270000.0,United States,Washington
+Apple,"Cupertino, CA",Calibration Engineering,Male,0.0,162000.0,115000.0,United States,California
+Amazon,"San Francisco, CA",Distributed Systems (Back-End),Male,10.0,380000.0,169000.0,United States,California
+Google,"San Francisco, CA",API Development (Back-End),Male,15.0,290000.0,155000.0,United States,California
+Lyft,"Palo Alto, CA",ML / AI,Male,10.0,418000.0,200000.0,United States,California
+Facebook,"Seattle, WA",Distributed Systems (Back-End),Male,10.0,375000.0,185000.0,United States,Washington
+Microsoft,"Sunnyvale, CA",ML / AI,Male,5.0,270000.0,180000.0,United States,California
+Microsoft,"Redmond, WA",API Development (Back-End),Male,19.0,265000.0,180000.0,United States,Washington
+Microsoft,"Redmond, WA",Distributed Systems (Back-End),Male,11.0,220000.0,160000.0,United States,Washington
+Capital One,"Plano, TX",iOS,Male,9.0,110000.0,105000.0,United States,Texas
+Amazon,"Seattle, WA",Full Stack,Male,1.0,157000.0,122000.0,United States,Washington
+Qualcomm,"San Diego, CA",modem fw,Female,6.0,190000.0,140000.0,United States,California
+Qualcomm,"San Diego, CA",camera sw,Male,5.0,176000.0,126000.0,United States,California
+Uber,"San Francisco, CA",API Development (Back-End),Male,6.0,256000.0,155000.0,United States,California
+Microsoft,"Redmond, WA",Distributed Systems (Back-End),Male,3.0,190000.0,135000.0,United States,Washington
+Salesforce,"San Francisco, CA",Distributed Systems (Back-End),Female,1.0,174000.0,140000.0,United States,California
+Google,"Seattle, WA",Web Development (Front-End),Male,3.0,277000.0,138000.0,United States,Washington
+Google,"Mountain View, CA",API Development (Back-End),Male,10.0,365000.0,187000.0,United States,California
+Oracle,"Hyderabad, TS, India",Full Stack,Male,0.0,34000.0,20000.0,India,Telangana
+Microsoft,"Seattle, WA",Full Stack,Male,3.0,228000.0,145000.0,United States,Washington
+Apple,"Sunnyvale, CA",Distributed Systems (Back-End),Male,0.0,160000.0,120000.0,United States,California
+Microsoft,"Redmond, WA",Distributed Systems (Back-End),Male,2.0,231000.0,130000.0,United States,Washington
+Amazon,"New York, NY",Full Stack,Male,1.0,180000.0,152000.0,United States,New York
+Amazon,"Boston, MA",Embedded,Male,0.0,147000.0,112000.0,United States,Massachusetts
+Microsoft,"Bellevue, WA",Distributed Systems (Back-End),Male,20.0,268000.0,178000.0,United States,Washington
+Microsoft,"Redmond, WA",ML / AI,Male,3.0,175000.0,120000.0,United States,Washington
+Amazon,"Newark, NJ",Data Engineering,Male,3.0,217000.0,133000.0,United States,New Jersey
+Amazon,"Seattle, WA",Full Stack,Male,0.0,142000.0,112000.0,United States,Washington
+Cisco,"Seattle, WA",Security,Male,10.0,260000.0,200000.0,United States,Washington
+Facebook,"Menlo Park, CA",Mobile (iOS + Android),Male,8.0,237000.0,155000.0,United States,California
+Microsoft,"Redmond, WA",Security,Female,0.0,174000.0,131000.0,United States,Washington
+Amazon,"Seattle, WA",New Grad,Male,0.0,142000.0,112000.0,United States,Washington
+Amazon,"Palo Alto, CA",Full Stack,Male,4.0,262000.0,180000.0,United States,California
+Lyft,"San Francisco, CA",Distributed Systems (Back-End),Male,15.0,460000.0,225000.0,United States,California
+Salesforce,"San Francisco, CA",Distributed Systems (Back-End),Male,13.0,310000.0,230000.0,United States,California
+Oracle,"Boulder, CO",DevOps,Male,7.0,115000.0,115000.0,United States,Colorado
+Google,"San Bruno, CA",Web Development (Front-End),Female,9.0,327000.0,180000.0,United States,California
+Google,"Sunnyvale, CA",Distributed Systems (Back-End),Male,13.0,330000.0,188000.0,United States,California
+Google,"Sunnyvale, CA",Distributed Systems (Back-End),Male,13.0,330000.0,188000.0,United States,California
+Microsoft,"Redmond, WA",Support,Male,3.0,122000.0,107000.0,United States,Washington
+Cisco,"San Jose, CA",Distributed Systems (Back-End),Male,4.0,161000.0,140000.0,United States,California
+Apple,"Cupertino, CA",ML / AI,Male,0.0,257000.0,170000.0,United States,California
+Google,"San Francisco, CA",Full Stack,Male,15.0,590000.0,240000.0,United States,California
+Facebook,"London, EN, United Kingdom",Infra,Male,8.0,198000.0,112000.0,United Kingdom,England
+Microsoft,"Hyderabad, TS, India",Networking,Male,12.0,45000.0,35000.0,India,Telangana
+Google,"Los Angeles, CA",API Development (Back-End),Male,3.0,217000.0,140000.0,United States,California
+Microsoft,"Redmond, WA",Full Stack,Male,1.0,160000.0,122000.0,United States,Washington
+Salesforce,"San Francisco, CA",Web Development (Front-End),Male,18.0,486000.0,280000.0,United States,California
+Google,"New York, NY",Distributed Systems (Back-End),Male,8.0,375000.0,191000.0,United States,New York
+Lyft,"San Francisco, CA",Distributed Systems (Back-End),Male,5.0,371000.0,186000.0,United States,California
+JPMorgan Chase,"Columbus, OH",Full Stack,Male,0.0,80000.0,80000.0,United States,Ohio
+Google,"Kirkland, WA",Full Stack,Male,0.0,166000.0,113000.0,United States,Washington
+Microsoft,"Reading, EN, United Kingdom",API Development (Back-End),Male,6.0,119000.0,92000.0,United Kingdom,England
+Amazon,"Seattle, WA",API Development (Back-End),Male,2.0,165000.0,130000.0,United States,Washington
+Microsoft,"Redmond, WA",DevOps,Male,3.0,174000.0,143000.0,United States,Washington
+Microsoft,"Redmond, WA",Full Stack,Male,1.0,153000.0,120000.0,United States,Washington
+Microsoft,"Redmond, WA",Web Development (Front-End),Male,1.0,170000.0,122000.0,United States,Washington
+Amazon,"Seattle, WA",Distributed Systems (Back-End),Male,8.0,247000.0,147000.0,United States,Washington
+Cisco,"Bangalore, KA, India",Distributed Systems (Back-End),Male,3.0,28000.0,23000.0,India,Karnataka
+Microsoft,"Seattle, WA",Distributed Systems (Back-End),Male,4.0,190000.0,150000.0,United States,Washington
+Google,"Bellevue, WA",API Development (Back-End),Male,3.0,253000.0,144000.0,United States,Washington
+Amazon,"Seattle, WA",Full Stack,Male,20.0,244000.0,159000.0,United States,Washington
+Capital One,"San Francisco, CA",Full Stack,Male,3.0,127000.0,119000.0,United States,California
+Apple,"Cupertino, CA",Silicon validation,Male,23.0,425000.0,217000.0,United States,California
+Amazon,"Newark, NJ",Full Stack,Male,8.0,285000.0,190000.0,United States,New Jersey
+Oracle,"Seattle, WA",Distributed Systems (Back-End),Male,16.0,355000.0,200000.0,United States,Washington
+Amazon,"New York, NY",Distributed Systems (Back-End),Male,1.0,157000.0,118000.0,United States,New York
+Amazon,"Chennai, TN, India",Full Stack,Male,10.0,71000.0,35000.0,India,Tamil Nadu
+JPMorgan Chase,"Houston, TX",Distributed Systems (Back-End),Male,5.0,125000.0,100000.0,United States,Texas
+Amazon,"Seattle, WA",Distributed Systems (Back-End),Male,5.0,282000.0,160000.0,United States,Washington
+Google,"Sunnyvale, CA",ML / AI,Male,5.0,326000.0,164000.0,United States,California
+Microsoft,"Redmond, WA",Full Stack,Male,4.0,153000.0,134000.0,United States,Washington
+Google,"Sunnyvale, CA",Distributed Systems (Back-End),Male,0.0,264000.0,143000.0,United States,California
+Amazon,"North Reading, MA",Robotics,Male,0.0,158000.0,112000.0,United States,Massachusetts
+Amazon,"Madrid, MD, Spain",Full Stack,Male,0.0,58000.0,45000.0,Spain,Community of Madrid
+Google,"Sunnyvale, CA",Distributed Systems (Back-End),Male,8.0,339000.0,185000.0,United States,California
+Apple,"Cupertino, CA",ML / AI,Male,1.0,273000.0,180000.0,United States,California
